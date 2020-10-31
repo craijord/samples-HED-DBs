@@ -1,0 +1,1722 @@
+﻿id,course_name,course_level,couse_code,school_id,department_id
+1,Exploring Our Humanity,100,ANTH-0100,1,1
+2,Introduction to Biological Anthropology,200,ANTH-0200,1,1
+3,Introduction to Cultural and Social Anthropology,300,ANTH-0300,1,1
+4,Witch-Hunt Persecutions,400,ANTH-0400,1,1
+5,Archaeology: from Dig to Lab and Beyond,100,ARCH-0100,1,2
+6,Hannibal,200,ARCH-0200,1,2
+7,Introduction to Near Eastern Art and Archaeology,300,ARCH-0300,1,2
+8,Osteoarchaeology: The Truth in Our Bones,400,ARCH-0400,1,2
+9,Out of the Past,500,ARCH-0500,1,2
+10,Pyramids of Giza: Ancient Egyptian Art and Archaeology,600,ARCH-0600,1,2
+11,Roman Art and Archaeology,700,ARCH-0700,1,2
+12,The Changing Landscape of Ancient Rome. Archaeology and History of the Palatine Hill,800,ARCH-0800,1,2
+13,Wonders of Ancient Egypt,900,ARCH-0900,1,2
+14,Theory of City Form,1000,ARCH-1000,1,3
+15,Architecture Studio: Building in Landscapes,1100,ARCH-1100,1,3
+16,History of Architecture,1200,ARCH-1200,1,3
+17,Making Architecture,1300,ARCH-1300,1,3
+18,Roman Architecture,1400,ARCH-1400,1,3
+19,Structures 2,1500,ARCH-1500,1,3
+20,Sustainability in Architecture: An Interdisciplinary Introduction,1600,ARCH-1600,1,3
+21,The Architectural Imagination,1700,ARCH-1700,1,4
+22,Art Through Time: A Global View,100,ARTC-0100,1,5
+23,Digital Photography,200,ARTC-0200,1,5
+24,Effective Fundraising and Leadership in Arts and Culture,300,ARTC-0300,1,5
+25,European Paintings: From Leonardo to Rembrandt to Goya,400,ARTC-0400,1,5
+26,Fashion as Design,500,ARTC-0500,1,5
+27,Foundations of American Cyber-Culture,600,ARTC-0600,1,5
+28,In the Studio: Postwar Abstract Painting,700,ARTC-0700,1,5
+29,"Intentional Public Disruptions: Art, Responsibility, and Pedagogy",800,ARTC-0800,1,5
+30,Introduction to Digital Photography,900,ARTC-0900,1,5
+31,Introduction to Visual Design,1000,ARTC-1000,1,5
+32,Introduction to Visual Studies,1100,ARTC-1100,1,5
+33,Introduction to Visual Thinking,1200,ARTC-1200,1,5
+34,Italian Renaissance,1300,ARTC-1300,1,5
+35,Italic Calligraphy & Handwriting,1400,ARTC-1400,1,5
+36,"Let This Be a Lesson: Heroes, Heroines & Narrative in Paintings at Yale",1500,ARTC-1500,1,5
+37,Lighting Essentials,1600,ARTC-1600,1,5
+38,Modern Art & Ideas,1700,ARTC-1700,1,5
+39,Photography,1800,ARTC-1800,1,5
+40,Photography Lectures from the School of Visual Arts (SVA),1900,ARTC-1900,1,5
+41,Seeing Through Photographs,2000,ARTC-2000,1,5
+42,Sexing the Canvas: Art and Gender,2100,ARTC-2100,1,5
+43,SmARThistory Video Lectures,2200,ARTC-2200,1,5
+44,Teaching Critical Thinking through Art with the National Gallery of Art,2300,ARTC-2300,1,5
+45,The Elements of Drawing,2400,ARTC-2400,1,5
+46,What Is Contemporary Art?,2500,ARTC-2500,1,5
+47,Words Spun Out of Images: Visual and Literary Culture in Nineteenth Century Japan,2600,ARTC-2600,1,5
+48,Astrobiology and Space Exploration,100,ASTR-0100,1,6
+49,Astronomy 101,200,ASTR-0200,1,6
+50,Exploring Black Holes: General Relativity & Astrophysics,300,ASTR-0300,1,6
+51,"Edmund Bertschinger, MIT",400,ASTR-0400,1,6
+52,From Chemistry to Life,500,ASTR-0500,1,6
+53,From Planets to Cosmos,600,ASTR-0600,1,6
+54,Frontiers and Controversies in Astrophysics,700,ASTR-0700,1,6
+55,Course Materials,800,ASTR-0800,1,6
+56,Hunting for Life in the Universe,900,ASTR-0900,1,6
+57,Introduction to Astrophysics,1000,ASTR-1000,1,6
+58,Introduction to Cosmology,1100,ASTR-1100,1,6
+59,Introduction to General Astronomy,1200,ASTR-1200,1,6
+60,Introduction to General Astronomy,1300,ASTR-1300,1,6
+61,Introduction Planetary Science and Astronomy,1400,ASTR-1400,1,6
+62,Life in the Universe,1500,ASTR-1500,1,6
+63,Origins: From the Big Bang to the Emergence of Humans (Syllabus),1600,ASTR-1600,1,6
+64,Survey of Astronomy,1700,ASTR-1700,1,6
+65,The Accelerating Universe,1800,ASTR-1800,1,6
+66,The Planets (Christmas Lectures for Kids),1900,ASTR-1900,1,6
+67,The Planets,2000,ASTR-2000,1,6
+68,Adolescent Health and Development,100,BIOL-0100,1,7
+69,Advanced Clinical Pathophysiology (Nur 6591),200,BIOL-0200,1,7
+70,Anatomy & Physiology,300,BIOL-0300,1,7
+71,"Animals in Research: Law, Policy, and Humane Sciences",400,BIOL-0400,1,7
+72,Animal Behavior,500,BIOL-0500,1,7
+73,Animal Science,600,BIOL-0600,1,7
+74,Autism and Related Disorders,700,BIOL-0700,1,7
+75,Basic Nursing Theory,800,BIOL-0800,1,7
+76,Behavioral Endocrinology,900,BIOL-0900,1,7
+77,Biochemistry,1000,BIOL-1000,1,7
+78,Biochemistry,1100,BIOL-1100,1,7
+79,Biochemistry for Pre-Meds,1200,BIOL-1200,1,7
+80,Biodiversity and the Meaning of Human Existence,1300,BIOL-1300,1,7
+81,Biology Beyond Genes,1400,BIOL-1400,1,7
+82,Biophotonics,1500,BIOL-1500,1,7
+83,Bioscience in the 21st Century,1600,BIOL-1600,1,7
+84,Brain and Behavior,1700,BIOL-1700,1,7
+85,Brain Structure and its Origins,1800,BIOL-1800,1,7
+86,Cardiovascular Grand Rounds,1900,BIOL-1900,1,7
+87,Case Studies in Primary Healthcare,2000,BIOL-2000,1,7
+88,Changing the Face of American Healthcare,2100,BIOL-2100,1,7
+89,Computational Molecular Biology,2200,BIOL-2200,1,7
+90,"COVID-19, SARS-CoV-2 and the Pandemic",2300,BIOL-2300,1,7
+91,Darwin’s Legacy,2400,BIOL-2400,1,7
+92,Stanford,2500,BIOL-2500,1,7
+93,Diet and Nutrition,2600,BIOL-2600,1,7
+94,Enhancing Humane Science,2700,BIOL-2700,1,7
+95,Environmental Health Sciences,2800,BIOL-2800,1,7
+96,"Kirk Smith, UC Berkeley",2900,BIOL-2900,1,7
+97,Evolution,3000,BIOL-3000,1,7
+98,Evolution and Medicine,3100,BIOL-3100,1,7
+99,"Evolution, Ecology and Behavior",3200,BIOL-3200,1,7
+100,Course Info,3300,BIOL-3300,1,7
+101,Exercise Science and Wellness,3400,BIOL-3400,1,7
+102,Foundations of Computational and Systems Biology,3500,BIOL-3500,1,7
+103,Frontiers in Biomedical Engineering,3600,BIOL-3600,1,7
+104,Course Info,3700,BIOL-3700,1,7
+105,Fundamentals of Biology,3800,BIOL-3800,1,7
+106,"Multiple Instructors, MIT",3900,BIOL-3900,1,7
+107,General Biology 1,4000,BIOL-4000,1,7
+108,General Biology 1,4100,BIOL-4100,1,7
+109,General Biology 2,4200,BIOL-4200,1,7
+110,General Biology,4300,BIOL-4300,1,7
+111,"Multiple professors, UC Berkeley",4400,BIOL-4400,1,7
+112,General Biochemistry and Molecular Biology,4500,BIOL-4500,1,7
+113,General Human Anatomy,4600,BIOL-4600,1,7
+114,"Marian Diamond, UC Berkeley",4700,BIOL-4700,1,7
+115,"General Introduction to Plant Development, Form, and Function",4800,BIOL-4800,1,7
+116,"Multiple profs, UC Berkeley",4900,BIOL-4900,1,7
+117,"Genetic Engineering in Medicine, Agriculture, and Law",5000,BIOL-5000,1,7
+118,Genomes and Diversity,5100,BIOL-5100,1,7
+119,Genomics & Computational Biology,5200,BIOL-5200,1,7
+120,Genomic Medicine,5300,BIOL-5300,1,7
+121,Getting Started in Crypto-EM,5400,BIOL-5400,1,7
+122,Global Problems of Population Growth,5500,BIOL-5500,1,7
+123,Course Materials ,5600,BIOL-5600,1,7
+124,Growing Up in the Universe,5700,BIOL-5700,1,7
+125,"Hacking Consciousness: Consciousness, Cognition and the Brain",5800,BIOL-5800,1,7
+126,Health and Culture,5900,BIOL-5900,1,7
+127,"Health Behavior Change at the Individual, Household and Community Levels",6000,BIOL-6000,1,7
+128,Human Behavioral Biology,6100,BIOL-6100,1,7
+129,Introduction to Biochemistry,6200,BIOL-6200,1,7
+130,Introductory Biology,6300,BIOL-6300,1,7
+131,Introduction to Biology,6400,BIOL-6400,1,7
+132,Introduction to Biology,6500,BIOL-6500,1,7
+133,Introduction to Cellular & Molecular Biology,6600,BIOL-6600,1,7
+134,Introduction to Genetics and Evolution,6700,BIOL-6700,1,7
+135,Introduction to Human Nutrition,6800,BIOL-6800,1,7
+136,Introduction to Human Physiology,6900,BIOL-6900,1,7
+137,Introduction to Immunology,7000,BIOL-7000,1,7
+138,Introduction to Toxicology,7100,BIOL-7100,1,7
+139,Introduction to Veterinary Anesthesiology,7200,BIOL-7200,1,7
+140,Issues in Mental Health Research in Developing Countries,7300,BIOL-7300,1,7
+141,"Life, Concepts and Issues: Introduction to Life Sciences for Non-Science Majors",7400,BIOL-7400,1,7
+142,Modern Biology,7500,BIOL-7500,1,7
+143,Molecular and Cell Biology,7600,BIOL-7600,1,7
+144,Molecular Biology: Macromolecular Synthesis and Cellular Function,7700,BIOL-7700,1,7
+145,Molecules and Cells,7800,BIOL-7800,1,7
+146,Pharmacology,7900,BIOL-7900,1,7
+147,Plant Science,8000,BIOL-8000,1,7
+148,Pre-Med Primer: What Your Advisor Won’t Tell You,8100,BIOL-8100,1,7
+149,Principles of Human Development,8200,BIOL-8200,1,7
+150,Principles of Human Nutrition,8300,BIOL-8300,1,7
+151,Pulmonary Medical School,8400,BIOL-8400,1,7
+152,Replaceable You: Stem Cells and Tissue Engineering,8500,BIOL-8500,1,7
+153,Straight Talk About Stem Cells,8600,BIOL-8600,1,7
+154,Stem Cells: Policy and Ethics,8700,BIOL-8700,1,7
+155,The Brain: A User’s Guide,8800,BIOL-8800,1,7
+156,The Future of Human Health,8900,BIOL-8900,1,7
+157,The History of Public Health,9000,BIOL-9000,1,7
+158,The Stanford Mini Med School (Fall),9100,BIOL-9100,1,7
+159,Multiple Professors,9200,BIOL-9200,1,7
+160,The Stanford Mini Med School (Winter),9300,BIOL-9300,1,7
+161,Multiple Professors,9400,BIOL-9400,1,7
+162,The Stanford Mini Med School (Spring),9500,BIOL-9500,1,7
+163,The Stanford Mini Med School: The Heart,9600,BIOL-9600,1,7
+164,Urban Health in Developing Countries,9700,BIOL-9700,1,7
+165,Virology,9800,BIOL-9800,1,7
+166,Biochemistry 1,100,CHEM-0100,1,8
+167,Biological Chemistry 1,200,CHEM-0200,1,8
+168,Chemical Structure and Reactivity,300,CHEM-0300,1,8
+169,Chemistry (Chemical Stoichiometry),400,CHEM-0400,1,8
+170,Core Concepts in Chemistry,500,CHEM-0500,1,8
+171,Cosmic Origin of the Chemical Elements,600,CHEM-0600,1,8
+172,Crystallography,700,CHEM-0700,1,8
+173,Freshman Organic Chemistry,800,CHEM-0800,1,8
+174,"J. Michael McBride, Yale",900,CHEM-0900,1,8
+175,Freshman Organic Chemistry II,1000,CHEM-1000,1,8
+176,"J. Michael McBride, Yale",1100,CHEM-1100,1,8
+177,Fundamentals of Chemistry,1200,CHEM-1200,1,8
+178,General Chemistry,1300,CHEM-1300,1,8
+179,General Chemistry,1400,CHEM-1400,1,8
+180,Green Chemistry: An Interdisciplinary Approach to Sustainability,1500,CHEM-1500,1,8
+181,General Chemistry for Engineers,1600,CHEM-1600,1,8
+182,Introduction to Chemistry,1700,CHEM-1700,1,8
+183,Introduction to Chemical Engineering,1800,CHEM-1800,1,8
+184,Introduction to Green Chemistry,1900,CHEM-1900,1,8
+185,Introduction to Quantum Chemistry,2000,CHEM-2000,1,8
+186,Introduction to Solid State Chemistry,2100,CHEM-2100,1,8
+187,"Donald Sadoway, MIT",2200,CHEM-2200,1,8
+188,Introduction to Quantum Chemistry,2300,CHEM-2300,1,8
+189,Introductory Quantum Chemistry,2400,CHEM-2400,1,8
+190,"Life, Universe & Everything: Chemistry of Our Daily Lives",2500,CHEM-2500,1,8
+191,"Lights, Camera, Action: The Chemistry of Movies & TV",2600,CHEM-2600,1,8
+192,Organic Chemistry,2700,CHEM-2700,1,8
+193,Organic Chemistry,2800,CHEM-2800,1,8
+194,Organic Chemistry 1,2900,CHEM-2900,1,8
+195,Organic Chemistry 2,3000,CHEM-3000,1,8
+196,Organic Reactions and Pharmaceuticals,3100,CHEM-3100,1,8
+197,Organic Spectroscopy,3200,CHEM-3200,1,8
+198,Physical Chemistry,3300,CHEM-3300,1,8
+199,Physical Chemistry 1,3400,CHEM-3400,1,8
+200,Physical Chemistry 2,3500,CHEM-3500,1,8
+201,Principles of Chemical Science,3600,CHEM-3600,1,8
+202,Ancient and Medieval Philosophy (Syllabus),100,CLAS-0100,1,9
+203,Ancient Greece: City and Society,200,CLAS-0200,1,9
+204,"Ancient Greece: Myth, Art & War",300,CLAS-0300,1,9
+205,Ancient Greek History,400,CLAS-0400,1,9
+206,Ancient Israel,500,CLAS-0500,1,9
+207,Ancient Philosophy,600,CLAS-0600,1,9
+208,Ancient Wisdom and Modern Love (Syllabus),700,CLAS-0700,1,9
+209,Classical Mythology,800,CLAS-0800,1,9
+210,Classical Mythology ,900,CLAS-0900,1,9
+211,Concepts of the Hero in Greek Civilization,1000,CLAS-1000,1,9
+212,Epics of Rome,1100,CLAS-1100,1,9
+213,Greek and Roman Mythology,1200,CLAS-1200,1,9
+214,Hannibal,1300,CLAS-1300,1,9
+215,Roman Architecture,1400,CLAS-1400,1,9
+216,The Philosophy of Tragedy,1500,CLAS-1500,1,9
+217,The Roman World,1600,CLAS-1600,1,9
+218,Australia,1700,CLAS-1700,1,9
+219,Virgil’s Aeneid: Anatomy of a Classic,1800,CLAS-1800,1,9
+220,Becoming the Next Bill Nye: Writing and Hosting the Educational Show,100,COMM-0100,1,10
+221,Business Fundamentals: Effective Communication,200,COMM-0200,1,10
+222,Communication Skills and Teamwork,300,COMM-0300,1,10
+223,Communication Skills for Bridging Divides,400,COMM-0400,1,10
+224,Crisis Management: Proseminar in Public Relations,500,COMM-0500,1,10
+225,Design and Make Infographics,600,COMM-0600,1,10
+226,Effective Business Presentations with Powerpoint,700,COMM-0700,1,10
+227,Freedom of Speech and the Press,800,COMM-0800,1,10
+228,Fundamentals of Public Speaking,900,COMM-0900,1,10
+229,Improving Communication Skills,1000,COMM-1000,1,10
+230,Introduction to Communication Science,1100,COMM-1100,1,10
+231,Introduction to Public Speaking,1200,COMM-1200,1,10
+232,Inter-Collegiate Debating I,1300,COMM-1300,1,10
+233,Overcoming Public Speaking Anxiety,1400,COMM-1400,1,10
+234,Public Speaking II,1500,COMM-1500,1,10
+235,Rhetoric: The Art of Persuasive Writing and Public Speaking,1600,COMM-1600,1,10
+236,Rhetoric,1700,COMM-1700,1,10
+237,Storytelling,1800,COMM-1800,1,10
+238,The Interview,1900,COMM-1900,1,10
+239,Writing for Strategic Communication,2000,COMM-2000,1,10
+240,"Cars: Past, Present & Future",100,DESI-0100,1,11
+241,Crash Course in Design Thinking,200,DESI-0200,1,11
+242,Design Thinking for Innovation,300,DESI-0300,1,11
+243,Digital Design,400,DESI-0400,1,11
+244,Everything I Know,500,DESI-0500,1,11
+245,Fashion as Design,600,DESI-0600,1,11
+246,Ideas from the History of Graphic Design,700,DESI-0700,1,11
+247,Introduction to Design Thinking,800,DESI-0800,1,11
+248,Introduction to Visual Design,900,DESI-0900,1,11
+249,Product Design: The Delft Design Approach,1000,DESI-1000,1,11
+250,Video Game Design History,1100,DESI-1100,1,11
+251,Economic Geography of the Industrial World,100,GEOG-0100,1,12
+252,Geography of US Presidential Elections,200,GEOG-0200,1,12
+253,Geography of Europe,300,GEOG-0300,1,12
+254,Geography of World Cultures,400,GEOG-0400,1,12
+255,Geopolitics: Geographical Aspects of International Affairs,500,GEOG-0500,1,12
+256,Global Geopolitics,600,GEOG-0600,1,12
+257,Introduction to Ozark Studies,700,GEOG-0700,1,12
+258,"World Regions, Peoples, and States",800,GEOG-0800,1,12
+259,Causes of Human Disease: Understanding Causes of Disease,100,HEAL-0100,1,13
+260,"COVID-19, SARS-CoV-2 and the Pandemic",200,HEAL-0200,1,13
+261,"Dementia and the Arts: Sharing Practice, Developing Understanding and Enhancing Lives",300,HEAL-0300,1,13
+262,Engineering Health: Introduction to Yoga and Physiology,400,HEAL-0400,1,13
+263,Epidemics,500,HEAL-0500,1,13
+264,Epidemiology and Control of Infectious Diseases,600,HEAL-0600,1,13
+265,Exploring Play: the Importance of Play in Everyday Life,700,HEAL-0700,1,13
+266,Finding Purpose and Meaning In Life: Living for What Matters Most,800,HEAL-0800,1,13
+267,Food as Medicine,900,HEAL-0900,1,13
+268,Food and Mood: Improving Mental Health Through Diet and Nutrition,1000,HEAL-1000,1,13
+269,Hacking Exercise For Health. The Surprising New Science of Fitness,1100,HEAL-1100,1,13
+270,Healing with the Arts,1200,HEAL-1200,1,13
+271,Introduction to Infectious Disease,1300,HEAL-1300,1,13
+272,Science Matters: Let’s Talk About COVID-19/Coronavirus,1400,HEAL-1400,1,13
+273,Maintaining a Mindful Life,1500,HEAL-1500,1,13
+274,Medicine and the Arts: Humanising Healthcare,1600,HEAL-1600,1,13
+275,Mindfulness for Wellbeing and Peak Performance,1700,HEAL-1700,1,13
+276,Positive Psychiatry and Mental Health,1800,HEAL-1800,1,13
+277,"Talking About Cancer: Reducing Risk, Early Detection and Mythbusting",1900,HEAL-1900,1,13
+278,Theories and Biological Basis of Substance Abuse & Addiction,2000,HEAL-2000,1,13
+279,Traditional herbal medicine in supportive cancer care: From alternative to integrative,2100,HEAL-2100,1,13
+280,The Addicted Brain,2200,HEAL-2200,1,13
+281,The Science of Exercise,2300,HEAL-2300,1,13
+282,The Science and Practice of Yoga,2400,HEAL-2400,1,13
+283,Vital Signs: Understanding What the Body Is Telling Us,2500,HEAL-2500,1,13
+284,A Tale of Three Super Powers,100,HIST-0100,1,14
+285,African American History: Emancipation to the Present,200,HIST-0200,1,14
+286,African-American History: Modern Freedom Struggle,300,HIST-0300,1,14
+287,Age of Cathedrals,400,HIST-0400,1,14
+288,Age of Jefferson,500,HIST-0500,1,14
+289,America Through Foreign Eyes,600,HIST-0600,1,14
+290,American Economic History (Syllabus),700,HIST-0700,1,14
+291,American Economic History (Syllabus),800,HIST-0800,1,14
+292,American Environmental History,900,HIST-0900,1,14
+293,Ancient Greece: City and Society,1000,HIST-1000,1,14
+294,"Ancient Greece: Myth, Art & War",1100,HIST-1100,1,14
+295,Ancient Greek History,1200,HIST-1200,1,14
+296,Ancient Israel,1300,HIST-1300,1,14
+297,Asia in the Modern World: Images & Representations,1400,HIST-1400,1,14
+298,Australian Aboriginal History,1500,HIST-1500,1,14
+299,Ben Franklin and the World of the Enlightenment,1600,HIST-1600,1,14
+300,Big History,1700,HIST-1700,1,14
+301,"ChinaX: China’s Past, Present and Future",1800,HIST-1800,1,14
+302,CIA in the Third World,1900,HIST-1900,1,14
+303,Colonial and Revolutionary America,2000,HIST-2000,1,14
+304,Constitutional Convention,2100,HIST-2100,1,14
+305,"Coexistence in Medieval Spain: Jews, Christians, and Muslims",2200,HIST-2200,1,14
+306,Economic History of the Soviet Union,2300,HIST-2300,1,14
+307,Early Imperial Russia,2400,HIST-2400,1,14
+308,"Early Modern England: Politics, Religion & Society under the Tudors and Stuarts",2500,HIST-2500,1,14
+309,Emperors of Rome,2600,HIST-2600,1,14
+310,Epidemics in Western Society Since 1600,2700,HIST-2700,1,14
+311,Ethnic Relations in the US,2800,HIST-2800,1,14
+312,"Europe and the World: Wars, Empires, Nations 1648-1914",2900,HIST-2900,1,14
+313,"European Civilization, 1648-1945",3000,HIST-3000,1,14
+314,European Civilization from the Renaissance to the Present,3100,HIST-3100,1,14
+315,"European Cultural History, 1500-1815",3200,HIST-3200,1,14
+316,"European Cultural History, 1660-1870",3300,HIST-3300,1,14
+317,"European Cultural History, 1880-1920",3400,HIST-3400,1,14
+318,France Since 1871,3500,HIST-3500,1,14
+319,Freedom 101: Introduction to American Constitutional History,3600,HIST-3600,1,14
+320,Hannibal,3700,HIST-3700,1,14
+321,Harvey Goldberg Lectures (1975-1983),3800,HIST-3800,1,14
+322,Historical Jesus,3900,HIST-3900,1,14
+323,History and Practice of Human Rights,4000,HIST-4000,1,14
+324,History of Information,4100,HIST-4100,1,14
+325,History of Iran to the Safavid Period,4200,HIST-4200,1,14
+326,History of the Culture of Tea in China and Japan,4300,HIST-4300,1,14
+327,History of the International System,4400,HIST-4400,1,14
+328,History of MIT,4500,HIST-4500,1,14
+329,History of the Modern Middle East,4600,HIST-4600,1,14
+330,History of New York City: A Social History ,4700,HIST-4700,1,14
+331,History of the United States Since 1877,4800,HIST-4800,1,14
+332,History of the World Since 1500 CE,4900,HIST-4900,1,14
+333,Intellectual History of the United States since 1865,5000,HIST-5000,1,14
+334,Introduction to African American Studies,5100,HIST-5100,1,14
+335,Introduction to Ancient Egypt and Its Civilization,5200,HIST-5200,1,14
+336,Introduction to Ancient Greek History,5300,HIST-5300,1,14
+337,Introduction to American Studies,5400,HIST-5400,1,14
+338,Ireland in Rebellion (1782-1916),5500,HIST-5500,1,14
+339,Latin American History through the Novel,5600,HIST-5600,1,14
+340,21 Hours of Lectures by Howard Zinn,5700,HIST-5700,1,14
+341,Magic in the Middle Ages,5800,HIST-5800,1,14
+342,Making History,5900,HIST-5900,1,14
+343,Medieval British History,6000,HIST-6000,1,14
+344,Medicine and Public Health in American History,6100,HIST-6100,1,14
+345,Modern Civilization: 1750 to Present,6200,HIST-6200,1,14
+346,Modern Jewish History,6300,HIST-6300,1,14
+347,"Pirates, Smugglers, and the Modern World",6400,HIST-6400,1,14
+348,Rethinking the Black Liberation Movement,6500,HIST-6500,1,14
+349,Rethinking Theory in Black Studies,6600,HIST-6600,1,14
+350,Russian History: from Lenin to Putin,6700,HIST-6700,1,14
+351,"Science, Magic and Religion",6800,HIST-6800,1,14
+352,The American Founders and Their World,6900,HIST-6900,1,14
+353,The American Revolution,7000,HIST-7000,1,14
+354,"The Americas: Identity, Culture, and Power",7100,HIST-7100,1,14
+355,The Ancient Mediterranean World,7200,HIST-7200,1,14
+356,The Ancient Greeks,7300,HIST-7300,1,14
+357,The Birth of the Modern: Europe and its Others,7400,HIST-7400,1,14
+358,The Changing Landscape of Ancient Rome. Archaeology and History of the Palatine Hill,7500,HIST-7500,1,14
+359,The Cosmopolitan Medieval Arabic World,7600,HIST-7600,1,14
+360,"The Civil War and Reconstruction Era, 1845-1877",7700,HIST-7700,1,14
+361,The Crusades,7800,HIST-7800,1,14
+362,"The Early Middle Ages, 284-1000",7900,HIST-7900,1,14
+363,The French Revolution,8000,HIST-8000,1,14
+364,The Great War and Modern Philosophy,8100,HIST-8100,1,14
+365,The Holocaust,8200,HIST-8200,1,14
+366,The Holocaust,8300,HIST-8300,1,14
+367,The Flowering of the Middle Ages,8400,HIST-8400,1,14
+368,The History of Public Health,8500,HIST-8500,1,14
+369,The Kennedy Half Century,8600,HIST-8600,1,14
+370,The Modern World: Global History Since 1760,8700,HIST-8700,1,14
+371,"The Modern World, Part One: Global History from 1760 to 1910",8800,HIST-8800,1,14
+372,"The Modern World, Part Two: Global History since 1910",8900,HIST-8900,1,14
+373,The Normans,9000,HIST-9000,1,14
+374,The Ottoman Empire,9100,HIST-9100,1,14
+375,"The Peculiar Modernity of Britain, 1848-2000",9200,HIST-9200,1,14
+376,The Reformation,9300,HIST-9300,1,14
+377,The Roman World,9400,HIST-9400,1,14
+378,The Story of Freedom in America,9500,HIST-9500,1,14
+379,The Vietnam War,9600,HIST-9600,1,14
+380,The Vikings,9700,HIST-9700,1,14
+381,US History: from Civil War to Present,9800,HIST-9800,1,14
+382,20th Century United States History,9900,HIST-9900,1,14
+383,The Western Tradition (Video),10000,HIST-10000,1,14
+384,"War, Globalization, and Terror",10100,HIST-10100,1,14
+385,World Revolutions,10200,HIST-10200,1,14
+386,World Civilization to 1500,10300,HIST-10300,1,14
+387,World Civilization Since 1500,10400,HIST-10400,1,14
+388,World Economic History Before the Industrial Revolution,10500,HIST-10500,1,14
+389,American Literature I: Beginnings to Civil War,100,LITE-0100,1,35
+390,American Passages: A Literary Survey,200,LITE-0200,1,35
+391,Approaching Shakespeare,300,LITE-0300,1,35
+392,British and American Poetry: 1900 to the Present,400,LITE-0400,1,35
+393,Chaucer,500,LITE-0500,1,35
+394,Cervantes’ Don Quixote,600,LITE-0600,1,35
+395,Contemporary Literature,700,LITE-0700,1,35
+396,Creative Reading,800,LITE-0800,1,35
+397,Creative Writing: A Master Class,900,LITE-0900,1,35
+398,Cultural Studies,1000,LITE-1000,1,35
+399,Dante in Translation,1100,LITE-1100,1,35
+400,Darwin and Design,1200,LITE-1200,1,35
+401,D.H. Lawrence,1300,LITE-1300,1,35
+402,Dracula (by Bram Stoker),1400,LITE-1400,1,35
+403,Dune (Novel by Frank Herbert),1500,LITE-1500,1,35
+404,Epics of Rome,1600,LITE-1600,1,35
+405,Existentialism in Literature & Film,1700,LITE-1700,1,35
+406,Expansive Poetics,1800,LITE-1800,1,35
+407,Faeirie and Fantasy,1900,LITE-1900,1,35
+408,Fiction for Young Adults,2000,LITE-2000,1,35
+409,From Gods and Back,2100,LITE-2100,1,35
+410,Genres in Children’s Literature,2200,LITE-2200,1,35
+411,George Eliot,2300,LITE-2300,1,35
+412,"Hemingway, Fitzgerald, Faulkner",2400,LITE-2400,1,35
+413,History of Children’s Literature,2500,LITE-2500,1,35
+414,Holocaust in Film and Literature,2600,LITE-2600,1,35
+415,History of Poetry,2700,LITE-2700,1,35
+416,How Stories Seduce Us,2800,LITE-2800,1,35
+417,Introduction to Literature and the Environment,2900,LITE-2900,1,35
+418,Introduction to Modern Japanese Literature and Culture,3000,LITE-3000,1,35
+419,Introduction to Poetry,3100,LITE-3100,1,35
+420,Introduction to Pre-Modern Japanese Literature and Culture,3200,LITE-3200,1,35
+421,Introduction to Theory of Literature,3300,LITE-3300,1,35
+422,Invitation to World Literature,3400,LITE-3400,1,35
+423,Jack Kerouac,3500,LITE-3500,1,35
+424,Latin American History through the Novel,3600,LITE-3600,1,35
+425,"La Préparation du roman, in French (1978-80)",3700,LITE-3700,1,35
+426,Literary History of the Beats,3800,LITE-3800,1,35
+427,Literature and Form,3900,LITE-3900,1,35
+428,Literature and Psychoanalysis,4000,LITE-4000,1,35
+429,Milton,4100,LITE-4100,1,35
+430,Lord of the Rings I: The Road Goes Ever On,4200,LITE-4200,1,35
+431,Lord of the Rings II: The Two Towers,4300,LITE-4300,1,35
+432,Lord of the Rings III: Return of the King,4400,LITE-4400,1,35
+433,Modern & Contemporary American Poetry,4500,LITE-4500,1,35
+434,Modern Poetry,4600,LITE-4600,1,35
+435,Not Shakespeare: Elizabethan and Jacobean Popular Theatre,4700,LITE-4700,1,35
+436,Old English in Context,4800,LITE-4800,1,35
+437,Oscar Wilde,4900,LITE-4900,1,35
+438,Post Colonial Literature for Children,5000,LITE-5000,1,35
+439,Restoration and 18th Century Poetry: From Dryden to Wordsworth,5100,LITE-5100,1,35
+440,Rhetoric,5200,LITE-5200,1,35
+441,Romanticism,5300,LITE-5300,1,35
+442,Science Fiction and Politics,5400,LITE-5400,1,35
+443,Shakespeare,5500,LITE-5500,1,35
+444,Shakespeare After All: The Later Plays,5600,LITE-5600,1,35
+445,Shakespeare’s Principal Plays,5700,LITE-5700,1,35
+446,Spenser and Milton,5800,LITE-5800,1,35
+447,Survey of American Literature II,5900,LITE-5900,1,35
+448,Survey of Shakespeare’s Plays,6000,LITE-6000,1,35
+449,The American Novel Since 1945,6100,LITE-6100,1,35
+450,The Art of Living,6200,LITE-6200,1,35
+451,The Bible and English Literature,6300,LITE-6300,1,35
+452,The Heroic Quest,6400,LITE-6400,1,35
+453,The Hobbit,6500,LITE-6500,1,35
+454,The Literature of Crisis,6600,LITE-6600,1,35
+455,The Lost Road (Tolkien),6700,LITE-6700,1,35
+456,The Princess Bride,6800,LITE-6800,1,35
+457,The Shaping of Middle Earth,6900,LITE-6900,1,35
+458,The Silmarillion Seminar,7000,LITE-7000,1,35
+459,The Tempest,7100,LITE-7100,1,35
+460,The Western Canon: From Homer to Milton,7200,LITE-7200,1,35
+461,This Craft of Verse: The Charles Eliot Norton Lectures,7300,LITE-7300,1,35
+462,Tolkien,7400,LITE-7400,1,35
+463,Tolkien’s The Book of Lost Tales: Part 1,7500,LITE-7500,1,35
+464,Tolkien’s The Book of Lost Tales: Part 2,7600,LITE-7600,1,35
+465,Tolkien’s Unfinished Tales of Númenor and Middle-earth,7700,LITE-7700,1,35
+466,Undergraduate Tolkien Survey,7800,LITE-7800,1,35
+467,Virgil’s Aeneid: Anatomy of a Classic,7900,LITE-7900,1,35
+468,Voices & Visions: The Lives & Works of 13 American Poets,8000,LITE-8000,1,35
+469,Watership Down,8100,LITE-8100,1,35
+470,Writing Sources,8200,LITE-8200,1,35
+471,A First Course in Linear Algebra,100,MATH-0100,1,35
+472,Abstract Algebra,200,MATH-0200,1,35
+473,Against All Odds: Inside Statistics,300,MATH-0300,1,35
+474,Algebraic Topology: A Beginner’s Course,400,MATH-0400,1,35
+475,Analytic Geometry and Calculus,500,MATH-0500,1,35
+476,Applied Linear Algebra,600,MATH-0600,1,35
+477,Brief Calculus,700,MATH-0700,1,35
+478,Calculus 1,800,MATH-0800,1,35
+479,Calculus One,900,MATH-0900,1,35
+480,Calculus Revisited: Single Variable Calculus (1970),1000,MATH-1000,1,35
+481,"Herb Gross, MIT",1100,MATH-1100,1,35
+482,Calculus Revisited: Multivariable Calculus (1970),1200,MATH-1200,1,35
+483," Herb Gross, MIT",1300,MATH-1300,1,35
+484,"Calculus Revisited: Complex Variables, Differential Equations, and Linear Algebra (1972)",1400,MATH-1400,1,35
+485," Herb Gross, MIT",1500,MATH-1500,1,35
+486,Calculus Part 1,1600,MATH-1600,1,35
+487,Calculus Part 2,1700,MATH-1700,1,35
+488,Causal & Statistical Reasoning,1800,MATH-1800,1,35
+489,College Algebra,1900,MATH-1900,1,35
+490,College Algebra,2000,MATH-2000,1,35
+491,College Mathematics,2100,MATH-2100,1,35
+492,Computational Science and Engineering I,2200,MATH-2200,1,35
+493,"Gilbert Strang, MIT",2300,MATH-2300,1,35
+494,Core Science Mathematics,2400,MATH-2400,1,35
+495,Data Science Math Skills,2500,MATH-2500,1,35
+496,Differential Equations,2600,MATH-2600,1,35
+497,MIT,2700,MATH-2700,1,35
+498,Differential & Integral Calculus,2800,MATH-2800,1,35
+499,Empirical Research Methods,2900,MATH-2900,1,35
+500,Engineering Statistics,3000,MATH-3000,1,35
+501,"Geometric Folding Algorithms:Linkages, Origami, Polyhedra",3100,MATH-3100,1,35
+502,History of Mathematics,3200,MATH-3200,1,35
+503,Hyperbolic Geometry,3300,MATH-3300,1,35
+504,Introduction to Probability and Statistics,3400,MATH-3400,1,35
+505,Introductory Probability and Statistics for Business,3500,MATH-3500,1,35
+506,Introduction to Logic,3600,MATH-3600,1,35
+507,Introduction to Mathematical Thinking,3700,MATH-3700,1,35
+508,Introduction to Statistics and Data Analysis,3800,MATH-3800,1,35
+509,Linear Algebra,3900,MATH-3900,1,35
+510,"Gilbert Strang, MIT",4000,MATH-4000,1,35
+511,Linear Algebra 1,4100,MATH-4100,1,35
+512,Logic & Proofs,4200,MATH-4200,1,35
+513,Math for Economists,4300,MATH-4300,1,35
+514,Math of Finance,4400,MATH-4400,1,35
+515,Mathematics: The Language of Nature,4500,MATH-4500,1,35
+516,Mathematical Logic,4600,MATH-4600,1,35
+517,Mathematics in India,4700,MATH-4700,1,35
+518,"Multiple profs, IIT Bombay",4800,MATH-4800,1,35
+519,Mathematics for Computer Science,4900,MATH-4900,1,35
+520,Mathematics: Making the Invisible Visible,5000,MATH-5000,1,35
+521,Mathematics Illuminated,5100,MATH-5100,1,35
+522,Multiple View Geometry,5200,MATH-5200,1,35
+523,Multivariable Calculus,5300,MATH-5300,1,35
+524,"Dennis Auroux, MIT",5400,MATH-5400,1,35
+525,Numerical Analysis,5500,MATH-5500,1,35
+526,Probability and Statistics,5600,MATH-5600,1,35
+527,Probability for Math Science,5700,MATH-5700,1,35
+528,Rational Trigonometry,5800,MATH-5800,1,35
+529,Real Analysis,5900,MATH-5900,1,35
+530,Real Analysis,6000,MATH-6000,1,35
+531,Regression Analysis,6100,MATH-6100,1,35
+532,"Sets, Counting, and Probability",6200,MATH-6200,1,35
+533,Single Variable Calculus,6300,MATH-6300,1,35
+534,"David Jerison, MIT",6400,MATH-6400,1,35
+535,Social Statistics,6500,MATH-6500,1,35
+536,Statistical Reasoning,6600,MATH-6600,1,35
+537,Statistical Reasoning I,6700,MATH-6700,1,35
+538,Statistical Reasoning II,6800,MATH-6800,1,35
+539,Statistics,6900,MATH-6900,1,35
+540,Statistics for the Behavioral Sciences,7000,MATH-7000,1,35
+541,Statistics for the Social Sciences,7100,MATH-7100,1,35
+542,Statistics: Introduction to Probability,7200,MATH-7200,1,35
+543,STEM Readiness,7300,MATH-7300,1,35
+544,The Calculus Lifesaver,7400,MATH-7400,1,35
+545,The Infinite Quest,7500,MATH-7500,1,35
+546,Topics in Mathematics with Applications in Finance,7600,MATH-7600,1,35
+547,Trigonometry,7700,MATH-7700,1,35
+548,Vector Calculus,7800,MATH-7800,1,35
+549,A History of Philosophy,100,PHIL-0100,1,37
+550,A Romp Through Ethics for Complete Beginners,200,PHIL-0200,1,37
+551,A Romp Through the Philosophy of Mind,300,PHIL-0300,1,37
+552,Aesthetics & Philosophy of Art,400,PHIL-0400,1,37
+553,Analytic Philosophy: Wilfrid Sellars,500,PHIL-0500,1,37
+554,Ancient and Medieval Philosophy,600,PHIL-0600,1,37
+555,Ancient Philosophy,700,PHIL-0700,1,37
+556,Ancient Philosophy,800,PHIL-0800,1,37
+557,Ancient Philosophy: Plato & His Predecessors,900,PHIL-0900,1,37
+558,Ancient Philosophy: Aristotle and His Successors,1000,PHIL-1000,1,37
+559,Ancient Wisdom and Modern Love,1100,PHIL-1100,1,37
+560,Argument Diagramming,1200,PHIL-1200,1,37
+561,Aristotle: Ethics,1300,PHIL-1300,1,37
+562,Aristotle: Rhetoric,1400,PHIL-1400,1,37
+563,Authority & the Individual: Six BBC Lectures,1500,PHIL-1500,1,37
+564,Bioethics: An Introduction,1600,PHIL-1600,1,37
+565,"Marianne Talbot, Oxford",1700,PHIL-1700,1,37
+566,Contemporary Issues in Philosophy of Mind & Cognition,1800,PHIL-1800,1,37
+567,Cosmologies of Capitalism,1900,PHIL-1900,1,37
+568,Critical Reasoning for Beginners,2000,PHIL-2000,1,37
+569,Critical Thinking,2100,PHIL-2100,1,37
+570,Dark Matter of the Mind,2200,PHIL-2200,1,37
+571,Death,2300,PHIL-2300,1,37
+572,Deleuze: 8 cours de philosophie (in French),2400,PHIL-2400,1,37
+573,Deleuze: Sur Spinoza (in French),2500,PHIL-2500,1,37
+574,Darwin and the Evolution of Thought,2600,PHIL-2600,1,37
+575,David Hume’s Central Principles,2700,PHIL-2700,1,37
+576,Free Online Audio + Video,2800,PHIL-2800,1,37
+577,Discourse and Truth,2900,PHIL-2900,1,37
+578,Effective Altruism,3000,PHIL-3000,1,37
+579,Eight Philosophy Courses by Gilles Deleuze,3100,PHIL-3100,1,37
+580,Environmental Ethics (Syllabus),3200,PHIL-3200,1,37
+581,Environmental Philosophy,3300,PHIL-3300,1,37
+582,Epictetus’ Enchiridion,3400,PHIL-3400,1,37
+583,Epistemology,3500,PHIL-3500,1,37
+584,Ethics,3600,PHIL-3600,1,37
+585,Ethics,3700,PHIL-3700,1,37
+586,Ethics,3800,PHIL-3800,1,37
+587,"Ethics, an Introduction",3900,PHIL-3900,1,37
+588,Existentialism,4000,PHIL-4000,1,37
+589,Existentialism in Literature & Film,4100,PHIL-4100,1,37
+590,Evidence and Ideology,4200,PHIL-4200,1,37
+591,Fear and Trembling in the 21st Century,4300,PHIL-4300,1,37
+592,Foundations of Modern Social Theory,4400,PHIL-4400,1,37
+593,From Gods and Back,4500,PHIL-4500,1,37
+594,General Philosophy,4600,PHIL-4600,1,37
+595,German Idealism and the 19th Century,4700,PHIL-4700,1,37
+596,"Gödel, Escher, Bach: A Mental Space Odyssey",4800,PHIL-4800,1,37
+597,Great Big Ideas,4900,PHIL-4900,1,37
+598,Half Hour Hegel: The Complete Phenomenology of Spirit,5000,PHIL-5000,1,37
+599,Hegel: The Philosophy of History,5100,PHIL-5100,1,37
+600,Hegel’s Phenomenology of Spirit,5200,PHIL-5200,1,37
+601,Hegel’s Phenomenology of Spirit,5300,PHIL-5300,1,37
+602,Hegel’s Philosophy of Right,5400,PHIL-5400,1,37
+603,Hegel’s Science of Logic,5500,PHIL-5500,1,37
+604,20th Century Philosophy: Martin Heidegger,5600,PHIL-5600,1,37
+605,"Heidegger Meets Van Gogh: Art, Freedom and Technology",5700,PHIL-5700,1,37
+606,Heidegger: Being and Time,5800,PHIL-5800,1,37
+607,Heidegger’s Being & Time,5900,PHIL-5900,1,37
+608,"Heidegger’s Being and Time, Division II",6000,PHIL-6000,1,37
+609,History of Ancient Philosophy,6100,PHIL-6100,1,37
+610,History of Ancient & Medieval Philosophy,6200,PHIL-6200,1,37
+611,History of Christian Philosophy,6300,PHIL-6300,1,37
+612,History of Modern Philosophy,6400,PHIL-6400,1,37
+613,History of Modern Philosophy,6500,PHIL-6500,1,37
+614,History of Modern Philosophy,6600,PHIL-6600,1,37
+615,Hobbes: Leviathan and De Cive (1964),6700,PHIL-6700,1,37
+616,How to Change the World,6800,PHIL-6800,1,37
+617,Ideas of the 20th Century,6900,PHIL-6900,1,37
+618,Introduction to Indian Philosophy,7000,PHIL-7000,1,37
+619,Introduction to Logic,7100,PHIL-7100,1,37
+620,Introduction to Logic,7200,PHIL-7200,1,37
+621,Introduction to Philosophy,7300,PHIL-7300,1,37
+622,Introduction to Philosophy,7400,PHIL-7400,1,37
+623,Introduction to Philosophy,7500,PHIL-7500,1,37
+624,Introduction to Philosophy,7600,PHIL-7600,1,37
+625,Introduction to Philosophy,7700,PHIL-7700,1,37
+626,Introduction to Philosophy,7800,PHIL-7800,1,37
+627,Introduction to Philosophy,7900,PHIL-7900,1,37
+628,Introduction to Philosophy of Science,8000,PHIL-8000,1,37
+629,Introduction to Political Philosophy,8100,PHIL-8100,1,37
+630,Introduction to Political Philosophy (Partial),8200,PHIL-8200,1,37
+631,Introduction to Political Philosophy: Study of Aristotle’s Politics,8300,PHIL-8300,1,37
+632,Introduction to Theory,8400,PHIL-8400,1,37
+633,Justice: What’s the Right Thing to Do?,8500,PHIL-8500,1,37
+634,Kant,8600,PHIL-8600,1,37
+635,Kant: Political Philosophy,8700,PHIL-8700,1,37
+636,Kant’s Critique of Judgment,8800,PHIL-8800,1,37
+637,Kant’s Critique of Pure Reason,8900,PHIL-8900,1,37
+638,Free Online Video + Audio,9000,PHIL-9000,1,37
+639,Kant’s Critique of Pure Reason,9100,PHIL-9100,1,37
+640,Kant’s Critique of Pure Reason,9200,PHIL-9200,1,37
+641,Know Thyself,9300,PHIL-9300,1,37
+642,Later Heidegger,9400,PHIL-9400,1,37
+643,Later Heidegger,9500,PHIL-9500,1,37
+644,Lecture Course in Ethical and Political Philosophy,9600,PHIL-9600,1,37
+645,Lecture Course in Plato,9700,PHIL-9700,1,37
+646,Life and Mind in Nature,9800,PHIL-9800,1,37
+647,Kant’s Epistemology,9900,PHIL-9900,1,37
+648,Knowledge and Rationality,10000,PHIL-10000,1,37
+649,"Life, Meaning and Morality",10100,PHIL-10100,1,37
+650,Logic and Proofs,10200,PHIL-10200,1,37
+651,Machiavelli,10300,PHIL-10300,1,37
+652,"Man, God, and Society in Western Literature",10400,PHIL-10400,1,37
+653,Marx’s Kapital: Volumes 1 and 2,10500,PHIL-10500,1,37
+654,Marxism,10600,PHIL-10600,1,37
+655,"Marx, Nietzsche and Hegel’s Logic of Essence",10700,PHIL-10700,1,37
+656,Medical Ethics,10800,PHIL-10800,1,37
+657,Merleau-Ponty’s Phenomenology of Perception,10900,PHIL-10900,1,37
+658,Metaphysics,11000,PHIL-11000,1,37
+659,"Minds, Morality and Agency",11100,PHIL-11100,1,37
+660,Modern Political Philosophy,11200,PHIL-11200,1,37
+661,Montesquieu’s The Spirit of the Laws (1966),11300,PHIL-11300,1,37
+662,Natural Right,11400,PHIL-11400,1,37
+663,Nietzsche,11500,PHIL-11500,1,37
+664,"Nietzsche, Beyond Good and Evil",11600,PHIL-11600,1,37
+665,Nietzsche and the Postmodern Condition,11700,PHIL-11700,1,37
+666,Nietzsche on Mind and Nature,11800,PHIL-11800,1,37
+667,Multiple Profs,11900,PHIL-11900,1,37
+668,On Romantic Love,12000,PHIL-12000,1,37
+669,Philosophical Issues in Brain Science,12100,PHIL-12100,1,37
+670,Philosophy of Mental Illness,12200,PHIL-12200,1,37
+671,Philosophical Problems,12300,PHIL-12300,1,37
+672,Australia,12400,PHIL-12400,1,37
+673,Philosophy of Kant,12500,PHIL-12500,1,37
+674,Philosophy of Plato,12600,PHIL-12600,1,37
+675,Philosophy of Religion,12700,PHIL-12700,1,37
+676,Philosophy and Human Values,12800,PHIL-12800,1,37
+677,Philosophy and the Science of Human Nature,12900,PHIL-12900,1,37
+678,"Tamar Gendler, Yale",13000,PHIL-13000,1,37
+679,Philosophy in Film and Other Media,13100,PHIL-13100,1,37
+680,"Irving Singer, MIT",13200,PHIL-13200,1,37
+681,Philosophy for Beginners,13300,PHIL-13300,1,37
+682,Philosophy of Heidegger,13400,PHIL-13400,1,37
+683,Philosophy of Language,13500,PHIL-13500,1,37
+684,Philosophy of Law (Syllabus),13600,PHIL-13600,1,37
+685,Philosophy of Love in the Western World,13700,PHIL-13700,1,37
+686,"Irving Singer, MIT",13800,PHIL-13800,1,37
+687,Philosophy of Mind,13900,PHIL-13900,1,37
+688,Philosophy of Mind,14000,PHIL-14000,1,37
+689,Philosophy of Mind,14100,PHIL-14100,1,37
+690,Philosophy of Nature (Science),14200,PHIL-14200,1,37
+691,Philosophy of the Natural Sciences,14300,PHIL-14300,1,37
+692,Philosophy of Religion,14400,PHIL-14400,1,37
+693,Philosophy of Religion,14500,PHIL-14500,1,37
+694,Philosophy of Society,14600,PHIL-14600,1,37
+695,Philosophy of Tragedy,14700,PHIL-14700,1,37
+696,"Philosophy, Science and Religion: Science and Philosophy",14800,PHIL-14800,1,37
+697,Plato,14900,PHIL-14900,1,37
+698,Plato’s Apology of Socrates,15000,PHIL-15000,1,37
+699,Plato Apology/Crito,15100,PHIL-15100,1,37
+700,Plato: Gorgias,15200,PHIL-15200,1,37
+701,Plato: Laws,15300,PHIL-15300,1,37
+702,Plato: Meno,15400,PHIL-15400,1,37
+703,"Plato, Protagoras",15500,PHIL-15500,1,37
+704,Plato’s Republic,15600,PHIL-15600,1,37
+705,Plato’s Theaetetus,15700,PHIL-15700,1,37
+706,"Political, Economic and Social Thought",15800,PHIL-15800,1,37
+707,Political Philosophy: Ideas of the 20th Century (2013),15900,PHIL-15900,1,37
+708,Austin,16000,PHIL-16000,1,37
+709,Political Philosophy: Marx,16100,PHIL-16100,1,37
+710,Political Philosophy: Rousseau,16200,PHIL-16200,1,37
+711,Practical Reasoning,16300,PHIL-16300,1,37
+712,Professional Ethics,16400,PHIL-16400,1,37
+713,Psychology of Will,16500,PHIL-16500,1,37
+714,Realism in Perspective,16600,PHIL-16600,1,37
+715,Seventeenth Century Philosophy,16700,PHIL-16700,1,37
+716,Science and the Modern World,16800,PHIL-16800,1,37
+717,Science vs. Religion,16900,PHIL-16900,1,37
+718,Social and Political Philosophy,17000,PHIL-17000,1,37
+719,Social and Political Philosophy (Economy),17100,PHIL-17100,1,37
+720,Social and Political Philosophy (Economy),17200,PHIL-17200,1,37
+721,"Social Theory, the Humanities & Philosophy Now",17300,PHIL-17300,1,37
+722,Socrates,17400,PHIL-17400,1,37
+723,Søren Kierkegaard,17500,PHIL-17500,1,37
+724,Soren Kierkegaard,17600,PHIL-17600,1,37
+725,Symbolic Logic,17700,PHIL-17700,1,37
+726,The Analytic Tradition,17800,PHIL-17800,1,37
+727,The Art of Living,17900,PHIL-17900,1,37
+728,The Black Man in the Cosmos (One lecture),18000,PHIL-18000,1,37
+729,The Central Philosophy of Tibet,18100,PHIL-18100,1,37
+730,The Culture of the Self,18200,PHIL-18200,1,37
+731,The Examined Life,18300,PHIL-18300,1,37
+732,The Great War and Modern Philosophy,18400,PHIL-18400,1,37
+733,The Historical Philosophy of W.E.B. Du Bois,18500,PHIL-18500,1,37
+734,The History of Philosophy Without Any Gaps,18600,PHIL-18600,1,37
+735,The History of Western Social Theory,18700,PHIL-18700,1,37
+736,The Human Compass,18800,PHIL-18800,1,37
+737,The Meaning of Life,18900,PHIL-18900,1,37
+738,The Modern and the Postmodern (Part 1),19000,PHIL-19000,1,37
+739,The Modern and the Postmodern (Part 1),19100,PHIL-19100,1,37
+740,The Moral Foundations of Politics,19200,PHIL-19200,1,37
+741,The Nature of Causation,19300,PHIL-19300,1,37
+742,The Rational Mind,19400,PHIL-19400,1,37
+743,The Origins of Political Science,19500,PHIL-19500,1,37
+744,The Origins of Political Science,19600,PHIL-19600,1,37
+745,The Philosophy of David Hume,19700,PHIL-19700,1,37
+746,The Philosophy of Descartes,19800,PHIL-19800,1,37
+747,The Secular and The Sacred,19900,PHIL-19900,1,37
+748,The Self Under Siege,20000,PHIL-20000,1,37
+749,The Universe As We Find It,20100,PHIL-20100,1,37
+750,Think Again I: How to Understand Arguments,20200,PHIL-20200,1,37
+751,Think Again II: How to Reason Deductively,20300,PHIL-20300,1,37
+752,Think Again III: How to Reason Inductively,20400,PHIL-20400,1,37
+753,Thucydides,20500,PHIL-20500,1,37
+754,Truth & Subjectivity,20600,PHIL-20600,1,37
+755,Unveiling Reality,20700,PHIL-20700,1,37
+756,Vico: Seminar in Political Philosophy,20800,PHIL-20800,1,37
+757,"Walter Kaufmann Lectures on Nietzsche, Kierkegaard and Sartre",20900,PHIL-20900,1,37
+758,What Does It Mean to Be Human? An Introduction to the Humanities,21000,PHIL-21000,1,37
+759,Why the World Does Not Exist,21100,PHIL-21100,1,37
+760,Xenophon’s Oeconomicus,21200,PHIL-21200,1,37
+761,100 Years of Gravitational Waves,100,PHYS-0100,1,37
+762,A Brief Guide to Everything,200,PHYS-0200,1,37
+763,A Descriptive Introduction to Physics,300,PHYS-0300,1,37
+764,Advanced Quantum Mechanics,400,PHYS-0400,1,37
+765,Atomic and Optical Physics I,500,PHYS-0500,1,37
+766,Atomic and Optical Physics II,600,PHYS-0600,1,37
+767,Classical Field Theory,700,PHYS-0700,1,37
+768,Classical Physics,800,PHYS-0800,1,37
+769,Einstein’s Astrophysical Messengers,900,PHYS-0900,1,37
+770,Effective Field Theory,1000,PHYS-1000,1,37
+771,Iain Stewart,1100,PHYS-1100,1,37
+772,Exploring Black Holes: General Relativity & Astrophysics,1200,PHYS-1200,1,37
+773,"Edmund Bertschinger, MIT",1300,PHYS-1300,1,37
+774,Exploring the Warped Universe,1400,PHYS-1400,1,37
+775,Electromagnetism and Optics,1500,PHYS-1500,1,37
+776,Endless Universe: Beyond the Big Bang,1600,PHYS-1600,1,37
+777,Fundamental Lessons from String Theory,1700,PHYS-1700,1,37
+778,Fundamentals of Physics,1800,PHYS-1800,1,37
+779,"Ramamurti Shankar, Yale",1900,PHYS-1900,1,37
+780,Fundamentals of Physics II,2000,PHYS-2000,1,37
+781,Web Site,2100,PHYS-2100,1,37
+782,Harmony and Balance,2200,PHYS-2200,1,37
+783,History and Mysteries of the Universe,2300,PHYS-2300,1,37
+784,Inflationary Theory,2400,PHYS-2400,1,37
+785,Introduction to Astrophysics,2500,PHYS-2500,1,37
+786,Introduction to Cosmology and Particle Physics,2600,PHYS-2600,1,37
+787,Introduction to Cosmology,2700,PHYS-2700,1,37
+788,Introduction to General Astronomy,2800,PHYS-2800,1,37
+789,Introduction to Nuclear Engineering and Ionizing Radiation,2900,PHYS-2900,1,37
+790,Introduction to Solar System Astronomy,3000,PHYS-3000,1,37
+791,Introductory Physics,3100,PHYS-3100,1,37
+792,Introduction to Physics,3200,PHYS-3200,1,37
+793,Loop Quantum Gravity,3300,PHYS-3300,1,37
+794,Modern Theoretical Physics: Classical Mechanics,3400,PHYS-3400,1,37
+795,Video & Materials,3500,PHYS-3500,1,37
+796,Modern Theoretical Physics: Quantum Mechanics (2008),3600,PHYS-3600,1,37
+797,Modern Theoretical Physics: Quantum Mechanics (2013),3700,PHYS-3700,1,37
+798,"Leonard Susskind, Stanford",3800,PHYS-3800,1,37
+799,Modern Theoretical Physics: Special Relativity,3900,PHYS-3900,1,37
+800,Modern Theoretical Physics: Special Relativity (2013),4000,PHYS-4000,1,37
+801," Leonard Susskind, Stanford",4100,PHYS-4100,1,37
+802,Modern Theoretical Physics: Einstein,4200,PHYS-4200,1,37
+803,Modern Theoretical Physics: Einstein’s General Theory of Relativity (2012),4300,PHYS-4300,1,37
+804,Modern Theoretical Physics: Cosmology (2009),4400,PHYS-4400,1,37
+805,Modern Theoretical Physics: Cosmology (2013),4500,PHYS-4500,1,37
+806,"Leonard Susskind, Stanford",4600,PHYS-4600,1,37
+807,Modern Theoretical Physics: Statistical Mechanics (2009),4700,PHYS-4700,1,37
+808,Modern Theoretical Physics: Statistical Mechanics (2013),4800,PHYS-4800,1,37
+809,"Leonard Susskind, Stanford",4900,PHYS-4900,1,37
+810,New Adventures in Spacetime,5000,PHYS-5000,1,37
+811,New Ideas About Dark Matter,5100,PHYS-5100,1,37
+812,Physics: What We Still Don’t Know,5200,PHYS-5200,1,37
+813,Principles of Physics,5300,PHYS-5300,1,37
+814,Quantum Electrodynamics,5400,PHYS-5400,1,37
+815,Quantum Entanglement Part 1: (Video),5500,PHYS-5500,1,37
+816,Quantum Entanglement Part 3: (Video),5600,PHYS-5600,1,37
+817,Quantum Field Theory,5700,PHYS-5700,1,37
+818,Quantum Mechanics,5800,PHYS-5800,1,37
+819," JJ Binney, Oxford University",5900,PHYS-5900,1,37
+820,Quantum Mechanics,6000,PHYS-6000,1,37
+821,Quantum Physics 1,6100,PHYS-6100,1,37
+822,Quantum Physics 2,6200,PHYS-6200,1,37
+823,Quantum Physics 2,6300,PHYS-6300,1,37
+824,Quantum Physics Made Relatively Simple,6400,PHYS-6400,1,37
+825,Quantum Theory,6500,PHYS-6500,1,37
+826,Physics I: Classical Mechanics,6600,PHYS-6600,1,37
+827,Physics II: Electricity and Magnetism,6700,PHYS-6700,1,37
+828,Physics III: Vibrations and Waves,6800,PHYS-6800,1,37
+829,Physics for Future Presidents,6900,PHYS-6900,1,37
+830,Physics for Scientists and Engineers,7000,PHYS-7000,1,37
+831,Physics for the 21st Century,7100,PHYS-7100,1,37
+832,Science and Cooking: From Haute Cuisine to the Science of Soft Matter,7200,PHYS-7200,1,37
+833,Soft X-Rays and Extreme Ultraviolet Radiation,7300,PHYS-7300,1,37
+834,Solid State Basics,7400,PHYS-7400,1,37
+835,"Space, Time and Einstein",7500,PHYS-7500,1,37
+836,Special Relativity,7600,PHYS-7600,1,37
+837,Special Theory of Relativity,7700,PHYS-7700,1,37
+838,"Stars, Galaxies, and the Universe",7800,PHYS-7800,1,37
+839,Statistical Mechanics I: Statistical Mechanics of Particles,7900,PHYS-7900,1,37
+840,"Mehran Kardar, MIT",8000,PHYS-8000,1,37
+841,Statistical Mechanics II: Statistical Physics of Fields,8100,PHYS-8100,1,37
+842,"Mehran Kardar, MIT",8200,PHYS-8200,1,37
+843,Stephen Hawking Lectures on Black Holes,8300,PHYS-8300,1,37
+844,"String Theory, Black Holes, and the Laws of Nature (Video)",8400,PHYS-8400,1,37
+845,String Theory and Holograhic Duality,8500,PHYS-8500,1,37
+846,"Hong Liu, MIT",8600,PHYS-8600,1,37
+847,String Theory and M Theory,8700,PHYS-8700,1,37
+848,The Accelerating Universe,8800,PHYS-8800,1,37
+849,The Black Hole Information Paradox,8900,PHYS-8900,1,37
+850,The Character of Physical Law,9000,PHYS-9000,1,37
+851,The Early Universe,9100,PHYS-9100,1,37
+852,"Alan Guth, MIT",9200,PHYS-9200,1,37
+853,The Edges of the Universe,9300,PHYS-9300,1,37
+854,"The Feynman Lectures on Physics, Vol. 1: Mainly Mechanics, Radiation, and Heat",9400,PHYS-9400,1,37
+855,The Mechanical Universe,9500,PHYS-9500,1,37
+856,The Past and Future of Unification,9600,PHYS-9600,1,37
+857,The World in Eleven Dimensions,9700,PHYS-9700,1,37
+858,Universe or Multiverse,9800,PHYS-9800,1,37
+859,Wave Physics,9900,PHYS-9900,1,37
+860,Why the World Exists,10000,PHYS-10000,1,37
+861,African American Studies: Intro to African American Political Thought,100,POLI-0100,1,37
+862,American Democracy and Citizenship,200,POLI-0200,1,37
+863,British Government,300,POLI-0300,1,37
+864,"Capital Punishment: Race, Poverty, & Disadvantage",400,POLI-0400,1,37
+865,"Stephen Bright, Yale",500,POLI-0500,1,37
+866,Conceptual Foundations of International Politics,600,POLI-0600,1,37
+867,Climate Change: Law and Policy,700,POLI-0700,1,37
+868,Data Literacy and Data Visualization,800,POLI-0800,1,37
+869,Election 2012,900,POLI-0900,1,37
+870,Environmental Politics and Law,1000,POLI-1000,1,37
+871,Course Materials,1100,POLI-1100,1,37
+872,Faith and Globalization,1200,POLI-1200,1,37
+873,Geography of US Presidential Elections,1300,POLI-1300,1,37
+874,Harvard Student Course on How to Resist Trump,1400,POLI-1400,1,37
+875,Human Rights Defenders,1500,POLI-1500,1,37
+876,International Political Economy,1600,POLI-1600,1,37
+877,Introduction to German Politics,1700,POLI-1700,1,37
+878,Introduction to Political Philosophy,1800,POLI-1800,1,37
+879,Introduction to Political Philosophy: Study of Aristotle’s Politics,1900,POLI-1900,1,37
+880,Justice: A Journey in Moral Reasoning,2000,POLI-2000,1,37
+881,Modeling Politics,2100,POLI-2100,1,37
+882,Perspectives on China (Video),2200,POLI-2200,1,37
+883,Politics and Strategy,2300,POLI-2300,1,37
+884,Progressive Alternatives,2400,POLI-2400,1,37
+885,Republicanism,2500,POLI-2500,1,37
+886,Second Amendment,2600,POLI-2600,1,37
+887,Seminar in Political Philosophy: Marx,2700,POLI-2700,1,37
+888,Seminar in Political Philosophy: Rousseau,2800,POLI-2800,1,37
+889,Sexuality and Power,2900,POLI-2900,1,37
+890,Science Fiction and Politics,3000,POLI-3000,1,37
+891,State of the Union 2014,3100,POLI-3100,1,37
+892,The European Union in the New Millenium,3200,POLI-3200,1,37
+893,The Habitable Planet: A Systems Approach to Environmental Science,3300,POLI-3300,1,37
+894,The Moral Foundations of Politics,3400,POLI-3400,1,37
+895,Course Materials,3500,POLI-3500,1,37
+896,The Origins of Political Science,3600,POLI-3600,1,37
+897,The Past and Future of the Left,3700,POLI-3700,1,37
+898,The Politics of Educational Inequality,3800,POLI-3800,1,37
+899,A Life of Happiness and Fulfillment,100,PSYC-0100,1,37
+900,An Introduction to Consumer Neuroscience & Neuromarketing,200,PSYC-0200,1,37
+901,Animal Behavior,300,PSYC-0300,1,37
+902,Behavioral Neuroscience Laboratory,400,PSYC-0400,1,37
+903,Brain and Behavior,500,PSYC-0500,1,37
+904,Brain Structure and its Origins,600,PSYC-0600,1,37
+905,Buddhism and Cognitive Science,700,PSYC-0700,1,37
+906,Buddhism and Modern Psychology,800,PSYC-0800,1,37
+907,Coding and Vision I,900,PSYC-0900,1,37
+908,Communication and Conflict in Families and Couples,1000,PSYC-1000,1,37
+909,Cultural Psychology,1100,PSYC-1100,1,37
+910,De-Mystifying Mindfulness,1200,PSYC-1200,1,37
+911,Developmental Psychology,1300,PSYC-1300,1,37
+912,Developmental Psychopathology,1400,PSYC-1400,1,37
+913,Environmental Psychology,1500,PSYC-1500,1,37
+914,Discovering Psychology,1600,PSYC-1600,1,37
+915,Everyday Parenting: The ABCs of Child Rearing,1700,PSYC-1700,1,37
+916,General Psychology,1800,PSYC-1800,1,37
+917,Great Ideas in Psychology (Podcast based on Course),1900,PSYC-1900,1,37
+918,"Hacking Consciousness: Consciousness, Cognition and the Brain",2000,PSYC-2000,1,37
+919,Hallucinations,2100,PSYC-2100,1,37
+920,Health Psychology,2200,PSYC-2200,1,37
+921,Health Psychology,2300,PSYC-2300,1,37
+922,How to Think Like a Psychologist,2400,PSYC-2400,1,37
+923,Human Emotion,2500,PSYC-2500,1,37
+924,Industrial/Organizational Psychology,2600,PSYC-2600,1,37
+925,Introduction to Clinical Psychology,2700,PSYC-2700,1,37
+926,Introduction to Cognitive Psychology,2800,PSYC-2800,1,37
+927,Introduction to Cognitive Psychology,2900,PSYC-2900,1,37
+928,Introduction to Psychology,3000,PSYC-3000,1,37
+929,Introduction to Psychology,3100,PSYC-3100,1,37
+930,Introduction to Psychology,3200,PSYC-3200,1,37
+931,Introduction to Psychology,3300,PSYC-3300,1,37
+932,"John Gabrieli, MIT",3400,PSYC-3400,1,37
+933,Introduction to Psychology,3500,PSYC-3500,1,37
+934,Introduction to Psychology,3600,PSYC-3600,1,37
+935,Know Thyself,3700,PSYC-3700,1,37
+936,Learning How to Learn: Powerful mental tools to help you master tough subjects,3800,PSYC-3800,1,37
+937,Manufacturing Happiness,3900,PSYC-3900,1,37
+938,Maps of Meaning: The Architecture of Belief (2017),4000,PSYC-4000,1,37
+939,Maps of Meaning (2014),4100,PSYC-4100,1,37
+940,Maps of Meaning (2016),4200,PSYC-4200,1,37
+941,Maps of Meaning (1996),4300,PSYC-4300,1,37
+942,Medical Neuroscience,4400,PSYC-4400,1,37
+943,Mindful Meditations,4500,PSYC-4500,1,37
+944,Moralities of Everyday Life,4600,PSYC-4600,1,37
+945,Nine Myths About Schizophrenia,4700,PSYC-4700,1,37
+946,Neural Networks and Biological Modeling,4800,PSYC-4800,1,37
+947,Neuroscience and Behavior,4900,PSYC-4900,1,37
+948,Neuroscience and Free Will,5000,PSYC-5000,1,37
+949,Personality and Its Transformations (2016),5100,PSYC-5100,1,37
+950,Personality and Its Transformations (2017),5200,PSYC-5200,1,37
+951,Philosophical Issues in Brain Science,5300,PSYC-5300,1,37
+952,Positive Psychology,5400,PSYC-5400,1,37
+953,Positive Psychology: Martin E. P. Seligman’s Visionary Science,5500,PSYC-5500,1,37
+954,Positive Psychology: Resilience Skills,5600,PSYC-5600,1,37
+955,Positive Psychiatry and Mental Health,5700,PSYC-5700,1,37
+956,Positive Psychology,5800,PSYC-5800,1,37
+957,Principles of Human Development,5900,PSYC-5900,1,37
+958,Psychological First Aid,6000,PSYC-6000,1,37
+959,Psychology Fundamentals,6100,PSYC-6100,1,37
+960,Psychology of Gender,6200,PSYC-6200,1,37
+961,Psychology and Economics,6300,PSYC-6300,1,37
+962,Psychology and Religion,6400,PSYC-6400,1,37
+963,Psychology of Perception,6500,PSYC-6500,1,37
+964,Psychology of Personality,6600,PSYC-6600,1,37
+965,Research and Data Analysis in Psychology,6700,PSYC-6700,1,37
+966,Scientific Approaches to Consciousness,6800,PSYC-6800,1,37
+967,Sensory Systems,6900,PSYC-6900,1,37
+968,"Peter Schiller, MIT",7000,PSYC-7000,1,37
+969,Social Cognition,7100,PSYC-7100,1,37
+970,Social Psychology,7200,PSYC-7200,1,37
+971,Social Psychology,7300,PSYC-7300,1,37
+972,"Synapses, Neurons and Brains",7400,PSYC-7400,1,37
+973,The Arts and Science of Relationships: Understanding Human Needs,7500,PSYC-7500,1,37
+974,The Biology of Consciousness,7600,PSYC-7600,1,37
+975,The Neuronal Basis of Psychology,7700,PSYC-7700,1,37
+976,The New Psychology of Depression,7800,PSYC-7800,1,37
+977,"The Psychology, Biology and Politics of Food",7900,PSYC-7900,1,37
+978,The Science of Psychedelics,8000,PSYC-8000,1,37
+979,The Science of Well-Being,8100,PSYC-8100,1,37
+980,The World of Abnormal Psychology,8200,PSYC-8200,1,37
+981,Understanding the Brain: The Neurobiology of Everyday Life,8300,PSYC-8300,1,37
+982,Understanding Memory: Explaining the Psychology of Memory through Movies,8400,PSYC-8400,1,37
+983,A Journey through Western Christianity: from Persecuted Faith to Global Religion (200,100,RELI-0100,1,37
+984,Ancient Israel,200,RELI-0200,1,37
+985,Apologetics 101,300,RELI-0300,1,37
+986,"Biblical Hermeneutics, Old and New Testament",400,RELI-0400,1,37
+987,Biblical Theology,500,RELI-0500,1,37
+988,Buddhism and Cognitive Science,600,RELI-0600,1,37
+989,Buddhism and Modern Psychology,700,RELI-0700,1,37
+990,Buddhism Through its Scriptures,800,RELI-0800,1,37
+991,Buddhist Psychology,900,RELI-0900,1,37
+992,Christianity and Ethics,1000,RELI-1000,1,37
+993,Christianity Through Its Scriptures,1100,RELI-1100,1,37
+994,Doctrine of God,1200,RELI-1200,1,37
+995,Faith and Globalization,1300,RELI-1300,1,37
+996,"Faith, Social Justice and Public Life",1400,RELI-1400,1,37
+997,From Israelite to Jew,1500,RELI-1500,1,37
+998,Genesis Through Joshua,1600,RELI-1600,1,37
+999,Hinduism Through Its Scriptures,1700,RELI-1700,1,37
+1000,Historical Jesus,1800,RELI-1800,1,37
+1001,History and Philosophy of Christian Thought,1900,RELI-1900,1,37
+1002,History of Christianity I ,2000,RELI-2000,1,37
+1003,History of Christianity II ,2100,RELI-2100,1,37
+1004,History of Christian Philosophy,2200,RELI-2200,1,37
+1005,History of Islamic Society,2300,RELI-2300,1,37
+1006,History and Nature of Apologetics,2400,RELI-2400,1,37
+1007,Introduction to the Old Testament (Hebrew Bible),2500,RELI-2500,1,37
+1008,Introduction to the Quran: The Scripture of Islam,2600,RELI-2600,1,37
+1009,Introduction to New Testament History and Literature,2700,RELI-2700,1,37
+1010,Introduction to Religion,2800,RELI-2800,1,37
+1011,Islam Through Its Scriptures,2900,RELI-2900,1,37
+1012,Jerusalem: The Holy City from Ancient Canaan t0 Modern Israel,3000,RELI-3000,1,37
+1013,Jews and Christians Throughout History,3100,RELI-3100,1,37
+1014,Judaism Through Its Scriptures,3200,RELI-3200,1,37
+1015,Literature and World of the Old Testament/Hebrew Bible,3300,RELI-3300,1,37
+1016,Medieval Church,3400,RELI-3400,1,37
+1017,Philosophy of Religion,3500,RELI-3500,1,37
+1018,Philosophy of Religion,3600,RELI-3600,1,37
+1019,"Philosophy, Science and Religion: Science and Philosophy",3700,RELI-3700,1,37
+1020,Religion and its Future,3800,RELI-3800,1,37
+1021,Religious Literacy: Traditions and Scriptures,3900,RELI-3900,1,37
+1022,"Science, Magic and Religion: From Antiquity to Present",4000,RELI-4000,1,37
+1023,Science & Religion 101,4100,RELI-4100,1,37
+1024,Science vs. Religion,4200,RELI-4200,1,37
+1025,Systematic Theology 101: Prolegomena,4300,RELI-4300,1,37
+1026,The Bible and English Literature,4400,RELI-4400,1,37
+1027,The Central Philosophy of Tibet,4500,RELI-4500,1,37
+1028,The Hebrew Bible,4600,RELI-4600,1,37
+1029,The Hebrew Scriptures in Judaism & Christianity,4700,RELI-4700,1,37
+1030,The Reformation,4800,RELI-4800,1,37
+1031,"Religion, Conflict and Peace",4900,RELI-4900,1,37
+1032,The Talmud: A Methodological Introduction,5000,RELI-5000,1,37
+1033,Theology of Hebrews,5100,RELI-5100,1,37
+1034,Cosmologies of Capitalism,100,SOCI-0100,1,37
+1035,Foundations of Modern Social Theory,200,SOCI-0200,1,37
+1036,Global Sociology,300,SOCI-0300,1,37
+1037,Human Development Across the Lifespan in a Social Context,400,SOCI-0400,1,37
+1038,Introduction to the Science of Nonviolence,500,SOCI-0500,1,37
+1039,Introduction to Sociology,600,SOCI-0600,1,37
+1040,Introduction to Sociology,700,SOCI-0700,1,37
+1041,Introduction to Sociology,800,SOCI-0800,1,37
+1042,Paradoxes of War,900,SOCI-0900,1,37
+1043,Rethinking Feminism,1000,SOCI-1000,1,37
+1044,Sexuality and Power,1100,SOCI-1100,1,37
+1045,Sociological Theory,1200,SOCI-1200,1,37
+1046,Statistics for the Social Sciences,1300,SOCI-1300,1,37
+1047,The History of Fear,1400,SOCI-1400,1,37
+1048,The History of Western Social Theory,1500,SOCI-1500,1,37
+1049,The Invention of the Modern World,1600,SOCI-1600,1,37
+1050,Sensing Place: Photography as Inquiry,100,URBA-0100,1,37
+1051,Arabic Elementary Course,100,WORL-0100,1,37
+1052,Arabic for Beginners 1,200,WORL-0200,1,37
+1053,Ancient Greek,300,WORL-0300,1,37
+1054,"Ancient Languages (Greek, Latin, Sanskrit, Old English, etc)",400,WORL-0400,1,37
+1055,Basic German,500,WORL-0500,1,37
+1056,Beginner’s Chinese,600,WORL-0600,1,37
+1057,Chinese Course,700,WORL-0700,1,37
+1058,Beginning Chinese,800,WORL-0800,1,37
+1059,Beginning Chinese Reader,900,WORL-0900,1,37
+1060,Intermediate Chinese,1000,WORL-1000,1,37
+1061,Intermediate Chinese Reader,1100,WORL-1100,1,37
+1062,Advanced Chinese,1200,WORL-1200,1,37
+1063,Advanced Chinese Reader,1300,WORL-1300,1,37
+1064,Brazilian Portuguese Pronunciation,1400,WORL-1400,1,37
+1065,Chinese Basic,1500,WORL-1500,1,37
+1066,Dialogue for German Learners: Beginner’s Level,1600,WORL-1600,1,37
+1067,Francais interactif,1700,WORL-1700,1,37
+1068,Elementary French 1,1800,WORL-1800,1,37
+1069,Elementary French 2,1900,WORL-1900,1,37
+1070,French in Action Free Online Video,2000,WORL-2000,1,37
+1071,French 1 & French 2,2100,WORL-2100,1,37
+1072,Icelandic Online,2200,WORL-2200,1,37
+1073,Intermediate Chinese,2300,WORL-2300,1,37
+1074,Introduction to Ancient Greek,2400,WORL-2400,1,37
+1075,Introduction to Urdu Alphabet,2500,WORL-2500,1,37
+1076,Introduction to Homeric Greek,2600,WORL-2600,1,37
+1077,Japanese Kana,2700,WORL-2700,1,37
+1078,Kanji Characters,2800,WORL-2800,1,37
+1079,Mandarin Chinese Characters,2900,WORL-2900,1,37
+1080,Numbers and Radicals,3000,WORL-3000,1,37
+1081,Online Intermediate College Korean,3100,WORL-3100,1,37
+1082,Pathway to Korean: Beginning Spoken Korean from Zero,3200,WORL-3200,1,37
+1083,Russian Essentials,3300,WORL-3300,1,37
+1084,Russian for Beginners 1,3400,WORL-3400,1,37
+1085,Spanish 1,3500,WORL-3500,1,37
+1086,Spanish 2,3600,WORL-3600,1,37
+1087,Spanish 3,3700,WORL-3700,1,37
+1088,Speak Italian with Your Mouth Full,3800,WORL-3800,1,37
+1089,Thai Alphabet,3900,WORL-3900,1,37
+1090,Aircraft Systems Engineering,100,AERO-0100,2,25
+1091,Space Flight Mechanics,200,AERO-0200,2,25
+1092,Advanced Algorithms,100,COMP-0100,2,10
+1093,Advanced Data Structures,200,COMP-0200,2,10
+1094,Advanced Operating Systems Structures and Implementation,300,COMP-0300,2,10
+1095,"Algorithms, Part I",400,COMP-0400,2,10
+1096,"Algorithms, Part II",500,COMP-0500,2,10
+1097,Algorithm Design and Analysis,600,COMP-0600,2,10
+1098,Algorithms for Big Data,700,COMP-0700,2,10
+1099,Algorithmic Lower Bounds: Fun with Hardness Proofs,800,COMP-0800,2,10
+1100,"Erik Demaine, MIT",900,COMP-0900,2,10
+1101,Android Development,1000,COMP-1000,2,10
+1102,AI for Everyone,1100,COMP-1100,2,10
+1103,Applied AI with DeepLearning,1200,COMP-1200,2,10
+1104,Artificial Intelligence,1300,COMP-1300,2,10
+1105,Artificial Intelligence,1400,COMP-1400,2,10
+1106,Artificial Intelligence,1500,COMP-1500,2,10
+1107,Free Course in Multiple formats,1600,COMP-1600,2,10
+1108,Artificial Intelligence,1700,COMP-1700,2,10
+1109,Artificial Intelligence,1800,COMP-1800,2,10
+1110,Free Course in Multiple formats,1900,COMP-1900,2,10
+1111,Artificial Intelligence,2000,COMP-2000,2,10
+1112,Basic Concepts of Operating Systems & System Programming,2100,COMP-2100,2,10
+1113,Bitcoin and Cryptocurrency Technologies,2200,COMP-2200,2,10
+1114,Bitcoin and Cryptocurrency Technologies,2300,COMP-2300,2,10
+1115,Bits: The Computer Science of Digital Information,2400,COMP-2400,2,10
+1116,Blender 3D Design,2500,COMP-2500,2,10
+1117,Building Dynamic Web Sites,2600,COMP-2600,2,10
+1118,Building Mobile Applications,2700,COMP-2700,2,10
+1119,Calling Bullshit in the Age of Big Data,2800,COMP-2800,2,10
+1120,C Programming: Getting Started,2900,COMP-2900,2,10
+1121,Codecademy,3000,COMP-3000,2,10
+1122,Coding Together: Apps for iPhone and iPad (2013),3100,COMP-3100,2,10
+1123,Computational Camera and Photography,3200,COMP-3200,2,10
+1124,Computational Discrete Mathematics,3300,COMP-3300,2,10
+1125,Computer Architecture,3400,COMP-3400,2,10
+1126,Computer Graphics,3500,COMP-3500,2,10
+1127,Computer Graphics,3600,COMP-3600,2,10
+1128,Computer Language Engineering,3700,COMP-3700,2,10
+1129,Computer Networks,3800,COMP-3800,2,10
+1130,Computer Science: Foundations of Computer & Information Security,3900,COMP-3900,2,10
+1131,Computer Systems,4000,COMP-4000,2,10
+1132,Computer System Engineering,4100,COMP-4100,2,10
+1133,Computer Systems Security,4200,COMP-4200,2,10
+1134,Convolutional Neural Networks,4300,COMP-4300,2,10
+1135,Cryptocurrency and Blockchain: An Introduction to Digital Currencies,4400,COMP-4400,2,10
+1136,"CS50, Harvard’s Introductory Computer Science Course (2017)",4500,COMP-4500,2,10
+1137,"CS50, Harvard’s Introductory Computer Science Course (2016)",4600,COMP-4600,2,10
+1138,Cybersecurity and Its Ten Domains,4700,COMP-4700,2,10
+1139,Cybersecurity Fundamentals,4800,COMP-4800,2,10
+1140,Cybersecurity Risk Management,4900,COMP-4900,2,10
+1141,Data Science (What is Data Science?),5000,COMP-5000,2,10
+1142,Database Systems Design,5100,COMP-5100,2,10
+1143,Data Structures,5200,COMP-5200,2,10
+1144,Data Structures,5300,COMP-5300,2,10
+1145,Data Structures and Algorithms,5400,COMP-5400,2,10
+1146,Data Structures,5500,COMP-5500,2,10
+1147,Deep Learning Explained,5600,COMP-5600,2,10
+1148,Deep Learning,5700,COMP-5700,2,10
+1149,Deep Learning,5800,COMP-5800,2,10
+1150,Design and Analysis of Algorithms,5900,COMP-5900,2,10
+1151,Design in Computing,6000,COMP-6000,2,10
+1152,Developing iOS 9 Apps with Swift,6100,COMP-6100,2,10
+1153,Developing iOS 10 Apps with Swift,6200,COMP-6200,2,10
+1154,Developing iPad Applications for Visualization and Insight,6300,COMP-6300,2,10
+1155,Discrete Mathematical Structures,6400,COMP-6400,2,10
+1156,Discrete Mathematics and Probability Theory,6500,COMP-6500,2,10
+1157,Discrete Stochastic Processes,6600,COMP-6600,2,10
+1158,"Robert Gallagher, MIT",6700,COMP-6700,2,10
+1159,Discrete Structures,6800,COMP-6800,2,10
+1160,Discrete Structures,6900,COMP-6900,2,10
+1161,Efficient Algorithms and Intractable Problems,7000,COMP-7000,2,10
+1162,Essential Math for Machine Learning: Python Edition,7100,COMP-7100,2,10
+1163,Foundations of Computer Graphics,7200,COMP-7200,2,10
+1164,Google Cloud Platform Fundamentals: Core Infrastructure,7300,COMP-7300,2,10
+1165,Graphics Architecture,7400,COMP-7400,2,10
+1166,Great Insights in Computing,7500,COMP-7500,2,10
+1167,Higher Computing,7600,COMP-7600,2,10
+1168,Human-Computer Interaction Seminar,7700,COMP-7700,2,10
+1169,Learn to Program in Java,7800,COMP-7800,2,10
+1170,"Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization",7900,COMP-7900,2,10
+1171,Innovative Computing,8000,COMP-8000,2,10
+1172,"Intensive Introduction to Computer Science Using C, PHP, and JavaScript",8100,COMP-8100,2,10
+1173,"David Malan, Harvard",8200,COMP-8200,2,10
+1174,Internet of Things: Communication Technologies,8300,COMP-8300,2,10
+1175,Introduction to Artificial Intelligence (AI),8400,COMP-8400,2,10
+1176,Introduction to AI Robotics,8500,COMP-8500,2,10
+1177,Introduction to Algorithms,8600,COMP-8600,2,10
+1178,"Prof. Charles Leiserson & Erik Demaine, MIT",8700,COMP-8700,2,10
+1179,Introduction to Computer Graphics & GPU Programming,8800,COMP-8800,2,10
+1180,Introduction to Computer Science and Programming in Python,8900,COMP-8900,2,10
+1181,Introduction to Computational Thinking and Data Science,9000,COMP-9000,2,10
+1182,Introduction to Computer Science and Programming (Using Python),9100,COMP-9100,2,10
+1183,Introduction to Computer Science: Programming Methodology,9200,COMP-9200,2,10
+1184,"Mehran Sahami, Stanford",9300,COMP-9300,2,10
+1185,Introduction to Computer Science: Programming Abstractions,9400,COMP-9400,2,10
+1186,"Julie Zelenski, Stanford",9500,COMP-9500,2,10
+1187,Introduction to Computer Science: Programming Paradigms,9600,COMP-9600,2,10
+1188,"Jerry Cain, Stanford",9700,COMP-9700,2,10
+1189,Introduction to Computer Architecture (2013),9800,COMP-9800,2,10
+1190,Introduction to Computer Architecture (2012),9900,COMP-9900,2,10
+1191,Introduction to Computer Graphics,10000,COMP-10000,2,10
+1192,Introduction to Computing for Non-Majors,10100,COMP-10100,2,10
+1193,Introduction to Computing,10200,COMP-10200,2,10
+1194,Introduction to Cybersecurity,10300,COMP-10300,2,10
+1195,Introduction to Cybersecurity,10400,COMP-10400,2,10
+1196,Introduction to Cybersecurity Tools & Cyber Attacks,10500,COMP-10500,2,10
+1197,Introduction to Electrical Engineering and Computer Science I,10600,COMP-10600,2,10
+1198,"Multiple Professors, MIT",10700,COMP-10700,2,10
+1199,Introduction to Embedded Systems,10800,COMP-10800,2,10
+1200,Introduction to Formal Systems & Computation,10900,COMP-10900,2,10
+1201,Introduction to Information Studies,11000,COMP-11000,2,10
+1202,Introduction to iPhone Application Development,11100,COMP-11100,2,10
+1203,Introduction to Linux,11200,COMP-11200,2,10
+1204,Introduction to Problem Solving & Programming,11300,COMP-11300,2,10
+1205,An Introduction to Practical Deep Learning,11400,COMP-11400,2,10
+1206,Introduction to Python: Absolute Beginner,11500,COMP-11500,2,10
+1207,Introduction to Python: Fundamentals,11600,COMP-11600,2,10
+1208,"Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning",11700,COMP-11700,2,10
+1209,"Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization",11800,COMP-11800,2,10
+1210,iPhone Application Development in iOS5 (Fall 2011),11900,COMP-11900,2,10
+1211,IT Security: Defense against the digital dark arts,12000,COMP-12000,2,10
+1212,Linux Implementation/Administration Practicum,12100,COMP-12100,2,10
+1213,Learning from Data: A Machine Learning Course,12200,COMP-12200,2,10
+1214,Local Area Network,12300,COMP-12300,2,10
+1215,Logic & Proofs,12400,COMP-12400,2,10
+1216,Machine Learning,12500,COMP-12500,2,10
+1217,Machine Learning,12600,COMP-12600,2,10
+1218,Machine Learning,12700,COMP-12700,2,10
+1219,Machine Learning Crash Course,12800,COMP-12800,2,10
+1220,Machine Learning with Python: A Practical Introduction,12900,COMP-12900,2,10
+1221,Machine Structures,13000,COMP-13000,2,10
+1222,Massively Parallel Computing,13100,COMP-13100,2,10
+1223,Mathematics for Computer Science,13200,COMP-13200,2,10
+1224,Media Programming,13300,COMP-13300,2,10
+1225,Mobile Software Engineering,13400,COMP-13400,2,10
+1226,Multicore Programming Primer,13500,COMP-13500,2,10
+1227,Network Security,13600,COMP-13600,2,10
+1228,Neural Networks and Deep Learning,13700,COMP-13700,2,10
+1229,Neural Networks for Machine Learning,13800,COMP-13800,2,10
+1230,Operating Systems and System Programming ,13900,COMP-13900,2,10
+1231,Performance Engineering of Software Systems,14000,COMP-14000,2,10
+1232,Principles of Computing,14100,COMP-14100,2,10
+1233,Principles of Digital Communications I,14200,COMP-14200,2,10
+1234,"Profs Gallagher and Zheng, MIT",14300,COMP-14300,2,10
+1235,Principles of Digital Communications II,14400,COMP-14400,2,10
+1236,Probabilistic Systems Analysis and Applied Probability,14500,COMP-14500,2,10
+1237,Probability for Computer Scientists,14600,COMP-14600,2,10
+1238,Programming for Everybody (Getting Started with Python),14700,COMP-14700,2,10
+1239,"Programming Languages, Part A",14800,COMP-14800,2,10
+1240,"Programming Languages, Part B",14900,COMP-14900,2,10
+1241,Programming Languages and Compilers,15000,COMP-15000,2,10
+1242,Programming for Designers,15100,COMP-15100,2,10
+1243,Python,15200,COMP-15200,2,10
+1244,Python,15300,COMP-15300,2,10
+1245,Python for Data Science and AI,15400,COMP-15400,2,10
+1246,Python Data Analysis,15500,COMP-15500,2,10
+1247,Python Data Representations,15600,COMP-15600,2,10
+1248,Python Data Visualization,15700,COMP-15700,2,10
+1249,Python Programming Essentials,15800,COMP-15800,2,10
+1250,Quantum Computing for the Determined,15900,COMP-15900,2,10
+1251,Ray Tracing for Global Illumination,16000,COMP-16000,2,10
+1252,Responsible Computing,16100,COMP-16100,2,10
+1253,"Search Engines: Technology, Society and Business",16200,COMP-16200,2,10
+1254,Signal Processing on Databases,16300,COMP-16300,2,10
+1255,Software as a Service,16400,COMP-16400,2,10
+1256,Software Engineering: Introduction,16500,COMP-16500,2,10
+1257,Startups,16600,COMP-16600,2,10
+1258,TCP/IP,16700,COMP-16700,2,10
+1259,Technical Support Fundamentals,16800,COMP-16800,2,10
+1260,The Beauty and Joy of Computing,16900,COMP-16900,2,10
+1261,The Bits and Bytes of Computer Networking,17000,COMP-17000,2,10
+1262,The Future of the Internet,17100,COMP-17100,2,10
+1263,The Society of Mind,17200,COMP-17200,2,10
+1264,"Marvin Minsky, MIT",17300,COMP-17300,2,10
+1265,The Structure and Interpretation of Computer Programs,17400,COMP-17400,2,10
+1266,Theory of Computation,17500,COMP-17500,2,10
+1267,Understanding Computers and the Internet,17600,COMP-17600,2,10
+1268,Using Python to Access Web Data,17700,COMP-17700,2,10
+1269,Virtual Reality,17800,COMP-17800,2,10
+1270,Visual Navigation for Flying Robots,17900,COMP-17900,2,10
+1271,Wide Area Networks,18000,COMP-18000,2,10
+1272,Wireless Networking,18100,COMP-18100,2,10
+1273,XML with Java,18200,COMP-18200,2,10
+1274,A Crash Course in Data Science,100,DATA-0100,2,10
+1275,Applied Data Science,200,DATA-0200,2,10
+1276,Building a Data Science Team,300,DATA-0300,2,10
+1277,Creating Dashboards and Storytelling with Tableau,400,DATA-0400,2,10
+1278,Data Science (What is Data Science?),500,DATA-0500,2,10
+1279,Databases and SQL for Data Science,600,DATA-0600,2,10
+1280,Data Science Ethics,700,DATA-0700,2,10
+1281,Data Science: Linear Regression,800,DATA-0800,2,10
+1282,Data Science Methodology,900,DATA-0900,2,10
+1283,Data Science: Probability,1000,DATA-1000,2,10
+1284,Data Science: Productivity Tools,1100,DATA-1100,2,10
+1285,Data Science Tools,1200,DATA-1200,2,10
+1286,Data Science: Machine Learning,1300,DATA-1300,2,10
+1287,Data Science Math Skills,1400,DATA-1400,2,10
+1288,Data Science: Probability,1500,DATA-1500,2,10
+1289,Data Science: R Basics,1600,DATA-1600,2,10
+1290,Data Science: Visualization,1700,DATA-1700,2,10
+1291,Data Science: Wrangling,1800,DATA-1800,2,10
+1292,Developing Data Products,1900,DATA-1900,2,10
+1293,Essential Design Principles for Tableau,2000,DATA-2000,2,10
+1294,Exploratory Data Analysis,2100,DATA-2100,2,10
+1295,Getting and Cleaning Data,2200,DATA-2200,2,10
+1296,Inferential Statistics,2300,DATA-2300,2,10
+1297,Introduction to Big Data,2400,DATA-2400,2,10
+1298,Introduction to Computational Thinking and Data Science,2500,DATA-2500,2,10
+1299,Introduction to Data Science in Python,2600,DATA-2600,2,10
+1300,Introduction to Probability,2700,DATA-2700,2,10
+1301,Introduction to R for Data Science,2800,DATA-2800,2,10
+1302,Linear Regression and Modeling,2900,DATA-2900,2,10
+1303,Machine Learning,3000,DATA-3000,2,10
+1304,Managing Data Analysis,3100,DATA-3100,2,10
+1305,Open Source Tools for Data Science,3200,DATA-3200,2,10
+1306,Practical Machine Learning,3300,DATA-3300,2,10
+1307,Probability and Statistics in Data Science using Python,3400,DATA-3400,2,10
+1308,Python for Data Science and AI,3500,DATA-3500,2,10
+1309,Python Data Structures,3600,DATA-3600,2,10
+1310,R Programming,3700,DATA-3700,2,10
+1311,Reproducible Research,3800,DATA-3800,2,10
+1312,Statistics and R,3900,DATA-3900,2,10
+1313,The Data Scientist’s Toolbox,4000,DATA-4000,2,10
+1314,Advanced Analog Integrated Circuits,100,ENGI-0100,2,11
+1315,Advanced Visualization,200,ENGI-0200,2,11
+1316,Atomistic Computer Modeling of Materials,300,ENGI-0300,2,11
+1317,"Gerbrand Ceder & Nicola Marzari, MIT",400,ENGI-0400,2,11
+1318,Basic Electronics,500,ENGI-0500,2,11
+1319,"Cellular Solids: Structure, Properties and Applications",600,ENGI-0600,2,11
+1320,Chemical Engineering: Process Dynamics and Controls,700,ENGI-0700,2,11
+1321,"Peter Woolf, University of Michigan",800,ENGI-0800,2,11
+1322,Communications Systems,900,ENGI-0900,2,11
+1323,Control Systems Engineering,1000,ENGI-1000,2,11
+1324,Convex Optimization I,1100,ENGI-1100,2,11
+1325,Convex Optimization 2,1200,ENGI-1200,2,11
+1326,Digital Signal Processing,1300,ENGI-1300,2,11
+1327,Direct Solar/Thermal to Electrical Energy Conversion Technologies,1400,ENGI-1400,2,11
+1328,Dynamics of Machines,1500,ENGI-1500,2,11
+1329,Dynamics and Control I,1600,ENGI-1600,2,11
+1330,Electrical,1700,ENGI-1700,2,11
+1331,"S.C Dutta Roy, IIT",1800,ENGI-1800,2,11
+1332,Electro Magnetic Fields,1900,ENGI-1900,2,11
+1333,Electronics & Communication Engineering,2000,ENGI-2000,2,11
+1334,"K.S. Venktesh, IIT Kanpur",2100,ENGI-2100,2,11
+1335,Electronic Feedback Systems,2200,ENGI-2200,2,11
+1336,Electronic Techniques for Engineering ,2300,ENGI-2300,2,11
+1337,Electronics,2400,ENGI-2400,2,11
+1338,"K. N. Bhat, IIT Madras",2500,ENGI-2500,2,11
+1339,Engineering Dynamics,2600,ENGI-2600,2,11
+1340,"Kim Vandiver and David Gossard, MIT",2700,ENGI-2700,2,11
+1341,Engineering Ethics,2800,ENGI-2800,2,11
+1342,Engineering Ethics,2900,ENGI-2900,2,11
+1343,Engineering Statics,3000,ENGI-3000,2,11
+1344,Environmental Air Pollution,3100,ENGI-3100,2,11
+1345,Fields and Waves,3200,ENGI-3200,2,11
+1346,Fluid Mechanics,3300,ENGI-3300,2,11
+1347,Fundamentals of Photovoltaics,3400,ENGI-3400,2,11
+1348,Greening the Economy: Lessons from Scandinavia,3500,ENGI-3500,2,11
+1349,Green Supply Chain Management,3600,ENGI-3600,2,11
+1350,"Multiple Professors, MIT",3700,ENGI-3700,2,11
+1351,Groundwater Hydrology,3800,ENGI-3800,2,11
+1352,Charles Harvey,3900,ENGI-3900,2,11
+1353,High-Speed Digital Design (requires registration),4000,ENGI-4000,2,11
+1354,Humanitarian Engineering,4100,ENGI-4100,2,11
+1355,Image Processing,4200,ENGI-4200,2,11
+1356,Information and Entropy,4300,ENGI-4300,2,11
+1357,Information Theory and Coding,4400,ENGI-4400,2,11
+1358,Integrated Circuit Devices,4500,ENGI-4500,2,11
+1359,Introduction to Chemical Engineering,4600,ENGI-4600,2,11
+1360,Introduction to Digital Integrated Circuits,4700,ENGI-4700,2,11
+1361,Introduction to Engineering,4800,ENGI-4800,2,11
+1362,Introduction to Engineering,4900,ENGI-4900,2,11
+1363,Introduction to Fluid Mechanics,5000,ENGI-5000,2,11
+1364,Introduction to Lean Six Sigma Methods,5100,ENGI-5100,2,11
+1365,Introduction to Linear Dynamical Systems,5200,ENGI-5200,2,11
+1366,Introduction to Microelectronic Devices & Circuits,5300,ENGI-5300,2,11
+1367,Introduction to Modeling and Simulation,5400,ENGI-5400,2,11
+1368,Linear Integrated Circuits,5500,ENGI-5500,2,11
+1369,Mechanical Engineering: Introduction to MEMS Design,5600,ENGI-5600,2,11
+1370,Microelectronic Devices and Circuits,5700,ENGI-5700,2,11
+1371,Microcontroller Design,5800,ENGI-5800,2,11
+1372,Microcontroller and System-on-Chip Construction Using Verilog and Altera FPGA,5900,ENGI-5900,2,11
+1373,Nano-to-Macro Transport Processes,6000,ENGI-6000,2,11
+1374,Nanomanufacturing,6100,ENGI-6100,2,11
+1375,"John Hart, U Michigan",6200,ENGI-6200,2,11
+1376,Nonlinear Finite Element Analysis,6300,ENGI-6300,2,11
+1377,Nuclear Engineering,6400,ENGI-6400,2,11
+1378,Nuclear Engineering 101 Nuclear Reactions and Radiation,6500,ENGI-6500,2,11
+1379,Optimization Models in Engineering,6600,ENGI-6600,2,11
+1380,Pre-Engineering: Intro to Microcontrollers,6700,ENGI-6700,2,11
+1381,The Art of Engineering,6800,ENGI-6800,2,11
+1382,The Engineering Profession,6900,ENGI-6900,2,11
+1383,The Fourier Transform and its Applications,7000,ENGI-7000,2,11
+1384,"Brad Osgood, Stanford",7100,ENGI-7100,2,11
+1385,Technology Entrepreneurship,7200,ENGI-7200,2,11
+1386,Understanding Lasers and Fiberoptics,7300,ENGI-7300,2,11
+1387,"Prof. Shaoul Ezekiel, MIT",7400,ENGI-7400,2,11
+1388,Adaptation to Climate Change,100,ENVI-0100,2,11
+1389,American Environmental History,200,ENVI-0200,2,11
+1390,Americans and the Global Forest,300,ENVI-0300,2,11
+1391,Australian Environmental History,400,ENVI-0400,2,11
+1392,Blue Planet: Introduction to Oceanography,500,ENVI-0500,2,11
+1393,Climate Change: Law and Policy,600,ENVI-0600,2,11
+1394,Education for Sustainable Living: Environment,700,ENVI-0700,2,11
+1395,Energy Regulations and the Environment,800,ENVI-0800,2,11
+1396,Environmental Economics & Policy,900,ENVI-0900,2,11
+1397,Environmental Economics & Policy,1000,ENVI-1000,2,11
+1398,Environmental Law and Policy,1100,ENVI-1100,2,11
+1399,Environmental Politics and Law,1200,ENVI-1200,2,11
+1400,Free Video & Course Materials,1300,ENVI-1300,2,11
+1401,Food and the Environment,1400,ENVI-1400,2,11
+1402,Global Warming: Understanding the Forecast,1500,ENVI-1500,2,11
+1403,"David Archer, University of Chicago",1600,ENVI-1600,2,11
+1404,How Climate Works,1700,ENVI-1700,2,11
+1405,International Environmental Law,1800,ENVI-1800,2,11
+1406,Introduction to Environmental Science,1900,ENVI-1900,2,11
+1407,"Introduction to Earthquakes, Their Causes and Effects",2000,ENVI-2000,2,11
+1408,Introduction to Environmental Economics and Policy,2100,ENVI-2100,2,11
+1409,Introduction to Literature and the Environment,2200,ENVI-2200,2,11
+1410,Introduction to Permaculture,2300,ENVI-2300,2,11
+1411,Microeconomic Theory with Application to Natural Resources,2400,ENVI-2400,2,11
+1412,Mitigating Agriculture’s Impact,2500,ENVI-2500,2,11
+1413,On Thin Ice: Climate Change and the Cryosphere,2600,ENVI-2600,2,11
+1414,Our Earth’s Future,2700,ENVI-2700,2,11
+1415,Radar,2800,ENVI-2800,2,11
+1416,Renewable Energy & Alternative Fuels (Law & Policy),2900,ENVI-2900,2,11
+1417,Sustainable Living,3000,ENVI-3000,2,11
+1418,"The Atmosphere, the Ocean, and Environmental Change",3100,ENVI-3100,2,11
+1419,"Ronald B. Smith, Yale",3200,ENVI-3200,2,11
+1420,Tipping Points: Climate Change and Society,3300,ENVI-3300,2,11
+1421,Wildlife Ecology ,3400,ENVI-3400,2,11
+1422,Woods Energy Seminar,3500,ENVI-3500,2,11
+1423,A Beginner’s Guide to Writing in English for University Study,100,WRIT-0100,3,37
+1424,An Introduction to Screenwriting,200,WRIT-0200,3,37
+1425,Academic Writing for Clarity and Meaning,300,WRIT-0300,3,37
+1426,Advanced Writing,400,WRIT-0400,3,37
+1427,British News Media Systems,500,WRIT-0500,3,37
+1428,Broadcast Journalism,600,WRIT-0600,3,37
+1429,Business Writing,700,WRIT-0700,3,37
+1430,Creative Writing: The Craft of Character,800,WRIT-0800,3,37
+1431,Creative Writing: The Craft of Plot,900,WRIT-0900,3,37
+1432,Creative Writing: The Craft of Setting and Description,1000,WRIT-1000,3,37
+1433,Creative Writing: The Craft of Style,1100,WRIT-1100,3,37
+1434,Creative Writing: A Master Class,1200,WRIT-1200,3,37
+1435,Discovering Science: Science Writing,1300,WRIT-1300,3,37
+1436,Getting Started with Essay Writing,1400,WRIT-1400,3,37
+1437,Grammar and Punctuation,1500,WRIT-1500,3,37
+1438,Grammar and Punctuation Advanced,1600,WRIT-1600,3,37
+1439,How To Make A Poem,1700,WRIT-1700,3,37
+1440,How to Write an Essay,1800,WRIT-1800,3,37
+1441,Journalistic Ethics,1900,WRIT-1900,3,37
+1442,Journalism Under Siege,2000,WRIT-2000,3,37
+1443,Magazine Writing,2100,WRIT-2100,3,37
+1444,Memoir and Personal Essay: Managing Your Relationship with the Reader,2200,WRIT-2200,3,37
+1445,Press and Society,2300,WRIT-2300,3,37
+1446,Rhetoric: The Art of Persuasive Writing and Public Speaking,2400,WRIT-2400,3,37
+1447,Script Writing: Write a Pilot Episode for a TV or Web Series,2500,WRIT-2500,3,37
+1448,Sharpened Visions: A Poetry Workshop,2600,WRIT-2600,3,37
+1449,Songwriting: Writing the Lyrics,2700,WRIT-2700,3,37
+1450,Start Fiction Writing,2800,WRIT-2800,3,37
+1451,Start Writing Essays,2900,WRIT-2900,3,37
+1452,Writing for Strategic Communication,3000,WRIT-3000,3,37
+1453,Writing in the Sciences,3100,WRIT-3100,3,37
+1454,Writing Stories About Ourselves,3200,WRIT-3200,3,37
+1455,A Law Student’s Toolkit,100,LAW-0100,4,31
+1456,Climate Change: Law and Policy,200,LAW-0200,4,31
+1457,CopyrightX,300,LAW-0300,4,31
+1458,Environmental Justice and Human Rights in the Aftermath of Katrina,400,LAW-0400,4,31
+1459,Environmental Law and Policy,500,LAW-0500,4,31
+1460,Environmental Politics and Law,600,LAW-0600,4,31
+1461,Freedom of Speech and the Press,700,LAW-0700,4,31
+1462,International Environmental Law,800,LAW-0800,4,31
+1463,Introduction to Copyright Law,900,LAW-0900,4,31
+1464,Labor Law and Employment Discrimination,1000,LAW-1000,4,31
+1465,Law and Economics I,1100,LAW-1100,4,31
+1466,Law and Justice,1200,LAW-1200,4,31
+1467,Law and Legal Thought in the 21st Century,1300,LAW-1300,4,31
+1468,Media Law & Ethics,1400,LAW-1400,4,31
+1469,Philosophy of Law (Syllabus),1500,LAW-1500,4,31
+1470,Politics and Media Freedom,1600,LAW-1600,4,31
+1471,Progressive Alternatives: Institutional Reconstruction Today,1700,LAW-1700,4,31
+1472,"Race, Gender and Invisibility: Why Intersectionality Matters",1800,LAW-1800,4,31
+1473,Renewable Energy & Alternative Fuels (Law & Policy),1900,LAW-1900,4,31
+1474,"Self, Serenity, and Vulnerability",2000,LAW-2000,4,31
+1475,Theories of Law and Society,2100,LAW-2100,4,31
+1476,Video Game Law,2200,LAW-2200,4,31
+1477,An Introduction to Consumer Neuroscience & Neuromarketing,100,BUSI-0100,5,7
+1478,Advanced Business Strategy,200,BUSI-0200,5,7
+1479,Agile Meets Design Thinking,300,BUSI-0300,5,7
+1480,Becoming a Changemaker: Introduction to Social Innovation,400,BUSI-0400,5,7
+1481,Blockchain and Money,500,BUSI-0500,5,7
+1482,"Branding, Content & Social Media",600,BUSI-0600,5,7
+1483,Budgeting and Scheduling Projects,700,BUSI-0700,5,7
+1484,Building a Business,800,BUSI-0800,5,7
+1485,Building a Business: Moving Your Product to the Market,900,BUSI-0900,5,7
+1486,Building a Data Science Team,1000,BUSI-1000,5,7
+1487,Building Your Leadership Skills,1100,BUSI-1100,5,7
+1488,Business Fundamentals: Effective Communication,1200,BUSI-1200,5,7
+1489,Business Growth Strategy,1300,BUSI-1300,5,7
+1490,Business Intelligence Tools,1400,BUSI-1400,5,7
+1491,Business Strategy from Wharton: Competitive Advantage,1500,BUSI-1500,5,7
+1492,Business Writing,1600,BUSI-1600,5,7
+1493,Corporate Finance,1700,BUSI-1700,5,7
+1494,Corporate Finance,1800,BUSI-1800,5,7
+1495,Corporate Finance for Healthcare Administrators,1900,BUSI-1900,5,7
+1496,Cost and Economics in Pricing Strategy,2000,BUSI-2000,5,7
+1497,Crisis Management: Proseminar in Public Relations,2100,BUSI-2100,5,7
+1498,Customer Analytics,2200,BUSI-2200,5,7
+1499,Design-Led Strategy: Design thinking for business strategy and entrepreneurship,2300,BUSI-2300,5,7
+1500,Design Thinking for Innovation,2400,BUSI-2400,5,7
+1501,Design Thinking for the Greater Good: Innovation in the Social Sector,2500,BUSI-2500,5,7
+1502,Digital Transformation,2600,BUSI-2600,5,7
+1503,Effective Business Presentations with Powerpoint,2700,BUSI-2700,5,7
+1504,Entrepreneurship 1: Developing the Opportunity,2800,BUSI-2800,5,7
+1505,Entrepreneurship 2: Launching your Start-Up,2900,BUSI-2900,5,7
+1506,Entrepreneurship 3: Growth Strategies,3000,BUSI-3000,5,7
+1507,Entrepreneurship 4: Financing and Profitability,3100,BUSI-3100,5,7
+1508,Entrepreneurship and Business Planning,3200,BUSI-3200,5,7
+1509,Entrepreneurship through the Lens of Venture Capital,3300,BUSI-3300,5,7
+1510,Essentials of Advertising and Marketing,3400,BUSI-3400,5,7
+1511,Excel Skills for Business: Essentials,3500,BUSI-3500,5,7
+1512,Financial Accounting Fundamentals,3600,BUSI-3600,5,7
+1513,Financial Management,3700,BUSI-3700,5,7
+1514,Financial Planning and Money Management,3800,BUSI-3800,5,7
+1515,Firm Level Economics: Consumer and Producer Behavior,3900,BUSI-3900,5,7
+1516,Foundations of Business Strategy,4000,BUSI-4000,5,7
+1517,Foundations of Everyday Leadership,4100,BUSI-4100,5,7
+1518,Fundamentals of Project Planning and Management,4200,BUSI-4200,5,7
+1519,Fundamentals of Project Planning and Management,4300,BUSI-4300,5,7
+1520,Futures and Options (Agriculture),4400,BUSI-4400,5,7
+1521,Global Risk Regulation,4500,BUSI-4500,5,7
+1522,Global Supply Chain Management,4600,BUSI-4600,5,7
+1523,"Grow to Greatness: Smart Growth for Private Businesses, Part I",4700,BUSI-4700,5,7
+1524,"Grow to Greatness: Smart Growth for Private Businesses, Part II",4800,BUSI-4800,5,7
+1525,High Stakes Leadership: Leading in Times of Crisis,4900,BUSI-4900,5,7
+1526,How to Develop Breakthrough Products and Services,5000,BUSI-5000,5,7
+1527,How to Launch a Successful Startup Company,5100,BUSI-5100,5,7
+1528,How to Start a Start Up,5200,BUSI-5200,5,7
+1529,How to Succeed at: Interviews,5300,BUSI-5300,5,7
+1530,How to Write a Resume,5400,BUSI-5400,5,7
+1531,Improving Communication Skills,5500,BUSI-5500,5,7
+1532,Influencing People,5600,BUSI-5600,5,7
+1533,Initiating and Planning Projects,5700,BUSI-5700,5,7
+1534,Inspiring Leadership through Emotional Intelligence,5800,BUSI-5800,5,7
+1535,Introduction to Marketing,5900,BUSI-5900,5,7
+1536,International Finance,6000,BUSI-6000,5,7
+1537,International Taxation,6100,BUSI-6100,5,7
+1538,International Taxation II,6200,BUSI-6200,5,7
+1539,Introduction to Business Administration,6300,BUSI-6300,5,7
+1540,Introduction to Consumer Behavior,6400,BUSI-6400,5,7
+1541,Introduction to Data Analysis Using Excel,6500,BUSI-6500,5,7
+1542,Introduction to Data Analytics for Business,6600,BUSI-6600,5,7
+1543,Introduction to Entrepreneurship,6700,BUSI-6700,5,7
+1544,Introduction to Financial Accounting,6800,BUSI-6800,5,7
+1545,Leadership in 21st Century Organizations,6900,BUSI-6900,5,7
+1546,Managing Project Risks and Changes,7000,BUSI-7000,5,7
+1547,Marketing Analytics,7100,BUSI-7100,5,7
+1548,Marketing in a Digital World,7200,BUSI-7200,5,7
+1549,More Introduction to Financial Accounting,7300,BUSI-7300,5,7
+1550,Introduction to Managerial Economics,7400,BUSI-7400,5,7
+1551,"Introduction to Negotiation: A Strategic Playbook for Becoming a Principled,  Persuasive Negotiator",7500,BUSI-7500,5,7
+1552,Introduction to Strategic Management,7600,BUSI-7600,5,7
+1553,Investment Philosophies,7700,BUSI-7700,5,7
+1554,Leadership Through Social Influence,7800,BUSI-7800,5,7
+1555,Legal Tech & Startups,7900,BUSI-7900,5,7
+1556,Managing Social and Human Capital,8000,BUSI-8000,5,7
+1557,Marketing in a Digital World,8100,BUSI-8100,5,7
+1558,Money and Banking,8200,BUSI-8200,5,7
+1559,Money and Banking (Syllabus),8300,BUSI-8300,5,7
+1560,Organizational Behavior: How to Manage People,8400,BUSI-8400,5,7
+1561,Organizational Behavior,8500,BUSI-8500,5,7
+1562,People Analytics,8600,BUSI-8600,5,7
+1563,Personal Finance,8700,BUSI-8700,5,7
+1564,Poker Theory and Analytics,8800,BUSI-8800,5,7
+1565,Principles of Management,8900,BUSI-8900,5,7
+1566,Principles of Managerial Accounting,9000,BUSI-9000,5,7
+1567,Private Equity and Venture Capital,9100,BUSI-9100,5,7
+1568,Project Management: The Basics for Success,9200,BUSI-9200,5,7
+1569,Real Estate Finance I,9300,BUSI-9300,5,7
+1570,Real Estate Finance III,9400,BUSI-9400,5,7
+1571,Startups,9500,BUSI-9500,5,7
+1572,Strategic Marketing,9600,BUSI-9600,5,7
+1573,Strategic Planning and Execution,9700,BUSI-9700,5,7
+1574,Successful Negotiation: Essential Strategies and Skills,9800,BUSI-9800,5,7
+1575,Supply Chain Management & Logistics: An Intro to Principles and Concepts,9900,BUSI-9900,5,7
+1576,Taxation of Trans-Pacific Transactions,10000,BUSI-10000,5,7
+1577,Technology Entrepreneurship,10100,BUSI-10100,5,7
+1578,The Fundamentals of Revenue Management: The Cornerstone of Revenue Strategy,10200,BUSI-10200,5,7
+1579,The Iterative Innovation Process,10300,BUSI-10300,5,7
+1580,The New Entrepreneurs,10400,BUSI-10400,5,7
+1581,The Strategy of Content Marketing,10500,BUSI-10500,5,7
+1582,The Startup Workshop,10600,BUSI-10600,5,7
+1583,Valuation,10700,BUSI-10700,5,7
+1584,Viral Marketing and How to Craft Contagious Content,10800,BUSI-10800,5,7
+1585,Women in Leadership: Inspiring Positive Change,10900,BUSI-10900,5,7
+1586,Writing for Strategic Communication,11000,BUSI-11000,5,7
+1587,Advanced Political Economy,100,ECON-0100,5,11
+1588,Against All Odds: Inside Statistics,200,ECON-0200,5,11
+1589,American Capitalism: A History,300,ECON-0300,5,11
+1590,American Economic History (Syllabus),400,ECON-0400,5,11
+1591,American Economic History (Syllabus)- Free Online Video,500,ECON-0500,5,11
+1592,Austrian Economics: An Introduction,600,ECON-0600,5,11
+1593,Behavioral Finance,700,ECON-0700,5,11
+1594,"Capitalism: Success, Crisis and Reform",800,ECON-0800,5,11
+1595,Cost and Economics in Pricing Strategy,900,ECON-0900,5,11
+1596,"Country Level Economics: Policies, Institutions, and Macroeconomic Performance",1000,ECON-1000,5,11
+1597,"Crisis, Globalization and Economics",1100,ECON-1100,5,11
+1598,Cryptocurrency and Blockchain: An Introduction to Digital Currencies,1200,ECON-1200,5,11
+1599,Development Economics,1300,ECON-1300,5,11
+1600,Development Economics: Macroeconomics,1400,ECON-1400,5,11
+1601,Economic Democracy: The Cooperative Alternative,1500,ECON-1500,5,11
+1602,Economics: Consumer Demand,1600,ECON-1600,5,11
+1603,Economics of Money and Banking,1700,ECON-1700,5,11
+1604,Economic Geography of the Industrial World,1800,ECON-1800,5,11
+1605,Economic History of the Soviet Union,1900,ECON-1900,5,11
+1606,Economics of the Media,2000,ECON-2000,5,11
+1607,"Energy Decisions, Markets and Policies",2100,ECON-2100,5,11
+1608,Finance Theory 1,2200,ECON-2200,5,11
+1609,Financial Markets,2300,ECON-2300,5,11
+1610,Financial Markets,2400,ECON-2400,5,11
+1611,Financial Markets 2011,2500,ECON-2500,5,11
+1612,Financial Theory,2600,ECON-2600,5,11
+1613,Game Theory,2700,ECON-2700,5,11
+1614,Game Theory,2800,ECON-2800,5,11
+1615,Game Theory,2900,ECON-2900,5,11
+1616,Game Theory and Economics,3000,ECON-3000,5,11
+1617,Great Big Ideas,3100,ECON-3100,5,11
+1618,Great Economists: Classical Economics and its Forerunners,3200,ECON-3200,5,11
+1619,Greening the Economy: Lessons from Scandinavia,3300,ECON-3300,5,11
+1620,History of Economic Theory,3400,ECON-3400,5,11
+1621,How to Win at Texas Hold ‘Em,3500,ECON-3500,5,11
+1622,Intermediate Microeconomic Theory,3600,ECON-3600,5,11
+1623,International Finance,3700,ECON-3700,5,11
+1624,International Finance,3800,ECON-3800,5,11
+1625,International Political Economy,3900,ECON-3900,5,11
+1626,International Trade,4000,ECON-4000,5,11
+1627,Introduction to Economic Theories,4100,ECON-4100,5,11
+1628,Introduction to Economics,4200,ECON-4200,5,11
+1629,Introduction to Managerial Economics,4300,ECON-4300,5,11
+1630,Lectures on Human Capital,4400,ECON-4400,5,11
+1631,Marx’s Kapital: Volumes 1 and 2,4500,ECON-4500,5,11
+1632,Marxian Economics,4600,ECON-4600,5,11
+1633,Mastering Econometrics,4700,ECON-4700,5,11
+1634,Math for Economists,4800,ECON-4800,5,11
+1635,Math of Finance,4900,ECON-4900,5,11
+1636,Mexico’s Economy: Current Prospects and History,5000,ECON-5000,5,11
+1637,Microeconomics: The Power of Markets,5100,ECON-5100,5,11
+1638,Microeconomics Principles,5200,ECON-5200,5,11
+1639,Money and Banking (Syllabus),5300,ECON-5300,5,11
+1640,Money and Banking,5400,ECON-5400,5,11
+1641,"Money, Trade and Society",5500,ECON-5500,5,11
+1642,Money Skills,5600,ECON-5600,5,11
+1643,Poker Theory and Analytics,5700,ECON-5700,5,11
+1644,Political Economy After the Crisis,5800,ECON-5800,5,11
+1645,Principles of Economics: Microeconomics,5900,ECON-5900,5,11
+1646,Principles of Economics: Macroeconomics,6000,ECON-6000,5,11
+1647,Principles of Microeconomics,6100,ECON-6100,5,11
+1648,Principles of Macroeconomics,6200,ECON-6200,5,11
+1649,Principles of Macroeconomics,6300,ECON-6300,5,11
+1650,Psychology and Economics,6400,ECON-6400,5,11
+1651,Public Economics,6500,ECON-6500,5,11
+1652,Public Economics and Finance,6600,ECON-6600,5,11
+1653,Radical Capitalism,6700,ECON-6700,5,11
+1654,Reading Marx’s Capital: Vol 1,6800,ECON-6800,5,11
+1655,Reading Marx’s Capital: Vol 2,6900,ECON-6900,5,11
+1656,Sports Economics,7000,ECON-7000,5,11
+1657,The Age of Sustainable Development,7100,ECON-7100,5,11
+1658,The Eurozone Crisis,7200,ECON-7200,5,11
+1659,The Federal Reserve and the Financial Crisis,7300,ECON-7300,5,11
+1660,The Future of Money,7400,ECON-7400,5,11
+1661,The Austrian School of Economics: An Introduction,7500,ECON-7500,5,11
+1662,The Challenge of World Poverty,7600,ECON-7600,5,11
+1663,The Elements of Economic Analysis,7700,ECON-7700,5,11
+1664,The Global Financial Crisis,7800,ECON-7800,5,11
+1665,The Power of Macroeconomics: Economic Principles in the Real World,7900,ECON-7900,5,11
+1666,The Power of Microeconomics: Economic Principles in the Real World,8000,ECON-8000,5,11
+1667,The Power of Macroeconomics,8100,ECON-8100,5,11
+1668,The Power of Mircoeconomics,8200,ECON-8200,5,11
+1669,Understanding Data,8300,ECON-8300,5,11
+1670,World Economic History Before the Industrial Revolution,8400,ECON-8400,5,11
+1671,A Life of Happiness and Fulfillment,100,PERS-0100,5,37
+1672,De-Mystifying Mindfulness,200,PERS-0200,5,37
+1673,Everyday Parenting: The ABCs of Child Rearing,300,PERS-0300,5,37
+1674,Learning How to Learn: Powerful mental tools to help you master tough subjects,400,PERS-0400,5,37
+1675,Learning How To Learn for Youth,500,PERS-0500,5,37
+1676,Mindful Meditations,600,PERS-0600,5,37
+1677,Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential,700,PERS-0700,5,37
+1678,Nutrition and Wellbeing,800,PERS-0800,5,37
+1679,Positive Psychology,900,PERS-0900,5,37
+1680,Positive Psychology: Resilience Skills,1000,PERS-1000,5,37
+1681,The Arts and Science of Relationships: Understanding Human Needs,1100,PERS-1100,5,37
+1682,The Science of Well-Being,1200,PERS-1200,5,37
+1683,An Introduction to Screenwriting,100,FILM-0100,6,11
+1684,Existentialism in Literature & Film,200,FILM-0200,6,11
+1685,Creative Activism,300,FILM-0300,6,11
+1686,Holocaust in Film and Literature,400,FILM-0400,6,11
+1687,Introduction to Film Studies,500,FILM-0500,6,11
+1688,Philosophy in Film and Other Media,600,FILM-0600,6,11
+1689,The Film Experience,700,FILM-0700,6,11
+1690,"Western Movies: Myth, Ideology, Genre",800,FILM-0800,6,11
+1691,Animation Basics,100,MEDI-0100,6,36
+1692,Being Free in the Digital Age,200,MEDI-0200,6,36
+1693,Becoming the Next Bill Nye: Writing and Hosting the Educational Show,300,MEDI-0300,6,36
+1694,"Branding, Content & Social Media",400,MEDI-0400,6,36
+1695,Creating Video Games,500,MEDI-0500,6,36
+1696,Crisis Management: Proseminar in Public Relations,600,MEDI-0600,6,36
+1697,Freedom of Speech and the Press,700,MEDI-0700,6,36
+1698,Game Design,800,MEDI-0800,6,36
+1699,Internet Giants: The Law and Economics of Media Platforms,900,MEDI-0900,6,36
+1700,"Media, Education, and the Marketplace",1000,MEDI-1000,6,36
+1701,Media Research Methods,1100,MEDI-1100,6,36
+1702,"Online Games: Literature, New Media, and Narrative",1200,MEDI-1200,6,36
+1703,Road to the Free Digital Society,1300,MEDI-1300,6,36
+1704,Storytelling,1400,MEDI-1400,6,36
+1705,The Rise of Superheroes and Their Impact On Pop Culture,1500,MEDI-1500,6,36
+1706,Video Production,1600,MEDI-1600,6,36
+1707,Basic Concepts of Music Theory,100,MUSI-0100,6,37
+1708,Dave Conservatoire (Music Theory Lessons),200,MUSI-0200,6,37
+1709,Free Music Courses (Multiple Offerings),300,MUSI-0300,6,37
+1710,Introduction to Pitch Systems in Tonal Music,400,MUSI-0400,6,37
+1711,Introduction to Theatre and Drama Arts,500,MUSI-0500,6,37
+1712,Introduction to World Music,600,MUSI-0600,6,37
+1713,"Missouri State, John Prescott",700,MUSI-0700,6,37
+1714,Jazz and Culture,800,MUSI-0800,6,37
+1715,Listening to Music,900,MUSI-0900,6,37
+1716,Musical Improvisation,1000,MUSI-1000,6,37
+1717,"Stravinsky’s Rite of Spring: Modernism, Ballet, and Riots",1100,MUSI-1100,6,37
+1718,The Ethics of Jazz (Lecture Series),1200,MUSI-1200,6,37
+1719,The Language of Music,1300,MUSI-1300,6,37
+1720,The British Lectures,1400,MUSI-1400,6,37
+1721,The Unanswered Question: 6 Lectures on Music,1500,MUSI-1500,6,37
