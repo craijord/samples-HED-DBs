@@ -18,12 +18,13 @@ select null as "Creating dms_user user:==============================";
 
 -- Copying base data
 select null as "Copying base data into tables========================";
-\copy first_name    from './data/csv/first_names.csv'       DELIMITER ',' CSV HEADER;
-\copy last_name     from './data/csv/last_names.csv'        DELIMITER ',' CSV HEADER;
-\copy semester      from './data/csv/semester.csv'          DELIMITER ',' CSV HEADER;
-\copy school        from './data/csv/school.csv'            DELIMITER ',' CSV HEADER;
-\copy department    from './data/csv/department.csv'        DELIMITER ',' CSV HEADER;
-\copy course        from './data/csv/course.csv'            DELIMITER ',' CSV HEADER;
+\copy first_name    from './data/csv/first_names.csv'           DELIMITER ',' CSV HEADER;
+\copy last_name     from './data/csv/last_names.csv'            DELIMITER ',' CSV HEADER;
+\copy semester      from './data/csv/semester.csv'              DELIMITER ',' CSV HEADER;
+\copy school        from './data/csv/school.csv'                DELIMITER ',' CSV HEADER;
+\copy department    from './data/csv/department.csv'            DELIMITER ',' CSV HEADER;
+\copy course        from './data/csv/course.csv'                DELIMITER ',' CSV HEADER;
+\copy ed_level      from './data/csv/list_education_levels.csv' DELIMITER ',' CSV HEADER;
     
     
 -- adding Foreign Keys
