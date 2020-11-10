@@ -139,5 +139,13 @@ OIDS=FALSE
 );
 
 
+CREATE TABLE IF NOT EXISTS sis_demo.ed_level(
+    ed_level_id NUMERIC(2,0),
+    ed_level_code CHARACTER VARYING(10),
+    ed_level_desc CHARACTER VARYING(40)
+)
+WITH (
+        OIDS=FALSE
+);
 
 
