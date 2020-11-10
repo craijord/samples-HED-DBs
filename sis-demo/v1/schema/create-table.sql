@@ -113,7 +113,7 @@ OIDS=FALSE
 
 CREATE TABLE IF NOT EXISTS sis_demo.course(
     id DOUBLE PRECISION DEFAULT NEXTVAL('sis_demo.course_seq'),
-    course_name CHARACTER VARYING(100),
+    course_name CHARACTER VARYING(150),
     course_level NUMERIC(6,0),
     couse_code CHARACTER VARYING(10),
     school_id DOUBLE PRECISION,
@@ -149,3 +149,13 @@ WITH (
 );
 
 
+CREATE TABLE IF NOT EXISTS sis_demo.course_registration(
+    date_registered DATE,
+    date_dropped    DATE,
+    student_id      DOUBLE PRECISION,
+    course_id       DOUBLE PRECISION,
+    status          CHARACTER VARYING(10)
+)
+WITH (
+    OIDS=FALSE
+);
