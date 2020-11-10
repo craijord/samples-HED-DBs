@@ -10,6 +10,7 @@ DROP TABLE IF EXISTS sis_demo.school;
 DROP TABLE IF EXISTS sis_demo.department;
 DROP TABLE IF EXISTS sis_demo.course;
 DROP TABLE IF EXISTS sis_demo.course_schedule;
+DROP TABLE IF EXISTS sis_demo.list_education_levels;
 
 
 
