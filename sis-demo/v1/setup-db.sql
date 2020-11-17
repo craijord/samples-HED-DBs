@@ -25,7 +25,7 @@ select null as "Copying base data into tables========================";
 \copy department    from './data/csv/department.csv'            DELIMITER ',' CSV HEADER;
 \copy course        from './data/csv/course.csv'                DELIMITER ',' CSV HEADER;
 \copy ed_level      from './data/csv/list_education_levels.csv' DELIMITER ',' CSV HEADER;
-    
+\copy university    from './data/csv/university.csv'            DELIMITER ',' CSV HEADER;    
     
 -- adding Foreign Keys
 -- \i ./schema/foreign-keys.sql

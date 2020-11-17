@@ -76,7 +76,8 @@ CREATE TABLE IF NOT EXISTS sis_demo.student(
     enrolled NUMERIC(1,0),
     parent_alum NUMERIC(1,0),
     parent_highest_ed CHARACTER VARYING(20),
-    first_gen_hed_student NUMERIC(1,0)
+    first_gen_hed_student NUMERIC(1,0),
+    department_id DOUBLE PRECISION
 )
 WITH (
 OIDS=FALSE
@@ -86,16 +87,28 @@ CREATE TABLE IF NOT EXISTS sis_demo.semester(
     id DOUBLE PRECISION DEFAULT NEXTVAL('sis_demo.semester_seq'),
     start_date DATE,
     end_date DATE,
-    name CHARACTER VARYING(20),
+    term_name CHARACTER VARYING(20),
+    semester_year NUMERIC(4,0),
     school_year_name CHARACTER VARYING(20)
 )
 WITH (
 OIDS=FALSE
 );
 
+CREATE TABLE IF NOT EXISTS sis_demo.university(
+    id DOUBLE PRECISION,
+    university_name CHARACTER VARYING(50),
+    website_url  CHARACTER VARYING(50)
+)
+WITH (
+    OIDS=FALSE
+);
+
 CREATE TABLE IF NOT EXISTS sis_demo.school(
     id DOUBLE PRECISION DEFAULT NEXTVAL('sis_demo.school_seq'),
-    school_name CHARACTER VARYING(50)
+    school_name CHARACTER VARYING(50),
+    relative_website_url CHARACTER VARYING(50),
+    university_id DOUBLE PRECISION
 )
 WITH (
 OIDS=FALSE
@@ -115,7 +128,7 @@ CREATE TABLE IF NOT EXISTS sis_demo.course(
     id DOUBLE PRECISION DEFAULT NEXTVAL('sis_demo.course_seq'),
     course_name CHARACTER VARYING(150),
     course_level NUMERIC(6,0),
-    couse_code CHARACTER VARYING(10),
+    course_code CHARACTER VARYING(10),
     school_id DOUBLE PRECISION,
     department_id DOUBLE PRECISION
 )
@@ -154,8 +167,25 @@ CREATE TABLE IF NOT EXISTS sis_demo.course_registration(
     date_dropped    DATE,
     student_id      DOUBLE PRECISION,
     course_id       DOUBLE PRECISION,
-    status          CHARACTER VARYING(10)
+    status          CHARACTER VARYING(10),
+    semester_id     DOUBLE PRECISION
 )
 WITH (
     OIDS=FALSE
 );
+
+
+CREATE TABLE IF NOT EXISTS sis_demo.degree_plan(
+    student_id                  DOUBLE PRECISION,
+    course_id                   DOUBLE PRECISION,
+    course_seq_no               NUMERIC(2,0),
+    status                      CHARACTER VARYING(10),
+    is_major_ind                NUMERIC(1,0),
+    semester_seq_no             NUMERIC(2,0),
+    planned_grad_semester_id    DOUBLE PRECISION
+    
+    
+)
+WITH (
+    OIDS=FALSE
+)

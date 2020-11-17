@@ -6,12 +6,14 @@ DROP TABLE IF EXISTS sis_demo.first_name;
 DROP TABLE IF EXISTS sis_demo.last_name;
 DROP TABLE IF EXISTS sis_demo.student;
 DROP TABLE IF EXISTS sis_demo.semester;
+DROP TABLE IF EXISTS sis_demo.university;
 DROP TABLE IF EXISTS sis_demo.school;
 DROP TABLE IF EXISTS sis_demo.department;
 DROP TABLE IF EXISTS sis_demo.course;
 DROP TABLE IF EXISTS sis_demo.course_schedule;
 DROP TABLE IF EXISTS sis_demo.ed_level;
 DROP TABLE IF EXISTS sis_demo.course_registration;
+DROP TABLE IF EXISTS sis_demo.degree_plan;
 
 
 
