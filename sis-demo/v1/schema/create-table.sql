@@ -2,6 +2,7 @@
 ------------------CREATE SCHEMA ------------------------------
 
 CREATE SCHEMA sis_demo;
+CREATE SCHEMA sis_other;
 
 -- ------------ Write CREATE-SEQUENCE-stage scripts -----------
 
@@ -40,7 +41,7 @@ NO CYCLE;
 -- ------------ Write CREATE-TABLE-stage scripts -----------
 
 
-CREATE TABLE IF NOT EXISTS sis_demo.first_name(
+CREATE TABLE IF NOT EXISTS sis_other.first_name(
     gender CHARACTER(1),
     name CHARACTER VARYING(30)
     )
@@ -48,7 +49,7 @@ CREATE TABLE IF NOT EXISTS sis_demo.first_name(
         OIDS=FALSE
     );
 
-CREATE TABLE IF NOT EXISTS sis_demo.last_name(
+CREATE TABLE IF NOT EXISTS sis_other.last_name(
     name            CHARACTER VARYING(30),
     rank            NUMERIC(7,0),
     count           NUMERIC(7,0),
@@ -77,7 +78,9 @@ CREATE TABLE IF NOT EXISTS sis_demo.student(
     parent_alum NUMERIC(1,0),
     parent_highest_ed CHARACTER VARYING(20),
     first_gen_hed_student NUMERIC(1,0),
-    department_id DOUBLE PRECISION
+    department_id DOUBLE PRECISION,
+    admit_semester_id DOUBLE PRECISION,
+    planned_grad_semester_id DOUBLE PRECISION
 )
 WITH (
 OIDS=FALSE
@@ -181,10 +184,7 @@ CREATE TABLE IF NOT EXISTS sis_demo.degree_plan(
     course_seq_no               NUMERIC(2,0),
     status                      CHARACTER VARYING(10),
     is_major_ind                NUMERIC(1,0),
-    semester_seq_no             NUMERIC(2,0),
-    planned_grad_semester_id    DOUBLE PRECISION
-    
-    
+    semester_seq_no             NUMERIC(2,0)    
 )
 WITH (
     OIDS=FALSE
