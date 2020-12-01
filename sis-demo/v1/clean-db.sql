@@ -2,8 +2,8 @@
 -- ------------ DROP TABLE scripts -----------
 
 
-DROP TABLE IF EXISTS sis_demo.first_name;
-DROP TABLE IF EXISTS sis_demo.last_name;
+DROP TABLE IF EXISTS sis_other.first_name;
+DROP TABLE IF EXISTS sis_other.last_name;
 DROP TABLE IF EXISTS sis_demo.student;
 DROP TABLE IF EXISTS sis_demo.semester;
 DROP TABLE IF EXISTS sis_demo.university;
@@ -28,3 +28,4 @@ DROP SEQUENCE IF EXISTS sis_demo.course_seq;
 ----------------- DROP SCHEMA IF EXISTS ---------------------
 
 DROP SCHEMA IF EXISTS sis_demo;
+DROP SCHEMA IF EXISTS sis_other;
