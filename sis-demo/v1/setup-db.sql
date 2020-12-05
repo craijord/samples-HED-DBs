@@ -18,8 +18,8 @@ select null as "Creating dms_user user:==============================";
 
 -- Copying base data
 select null as "Copying base data into tables========================";
-\copy first_name    from './data/csv/first_names.csv'           DELIMITER ',' CSV HEADER;
-\copy last_name     from './data/csv/last_names.csv'            DELIMITER ',' CSV HEADER;
+\copy sis_other.first_name    from './data/csv/first_names.csv'           DELIMITER ',' CSV HEADER;
+\copy sis_other.last_name     from './data/csv/last_names.csv'            DELIMITER ',' CSV HEADER;
 \copy semester      from './data/csv/semester.csv'              DELIMITER ',' CSV HEADER;
 \copy school        from './data/csv/school.csv'                DELIMITER ',' CSV HEADER;
 \copy department    from './data/csv/department.csv'            DELIMITER ',' CSV HEADER;
