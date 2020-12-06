@@ -81,6 +81,15 @@ CREATE TABLE IF NOT EXISTS sis_demo.student(
     department_id DOUBLE PRECISION,
     admit_semester_id DOUBLE PRECISION,
     planned_grad_semester_id DOUBLE PRECISION
+    high_school_gpa DOUBLE PRECISION,
+    was_hs_athlete_ind NUMERIC(1,0),
+    home_state_name CHARACTER VARYING(50),
+    admit_type CHARACTER VARYING(15),
+    private_hs_indicator NUMERIC(1,0),
+    multiple_majors_indicator NUMERIC(1,0)
+    secondary_class_percentile NUMERIC(3,0),
+    first_year_gpa DOUBLE PRECISION,
+    cumulative_gpa DOUBLE PRECISION
 )
 WITH (
 OIDS=FALSE
