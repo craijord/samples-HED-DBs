@@ -35,9 +35,9 @@ select null as "Copying base data into tables========================";
 
 select null as "Checking row counts by table=========================";
 select null as "first_name";
-SELECT COUNT(*) from sis_demo.first_name;
+SELECT COUNT(*) from sis_other.first_name;
 select null as "last_name";
-SELECT COUNT(*) from sis_demo.last_name;
+SELECT COUNT(*) from sis_other.last_name;
 select null as "semester";
 SELECT COUNT(*) from sis_demo.semester;
 select null as "school";
